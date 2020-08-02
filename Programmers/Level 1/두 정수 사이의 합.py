@@ -1,3 +1,4 @@
+# 두 정수 사이의 합
 def solution(a, b):
     sum = 0
     if a > b : a,b=b,a
