@@ -1,4 +1,4 @@
-# Refactor
+# Refactor 
 def solution(board, moves):
     answer = 0
     stack = []
