@@ -1,3 +1,4 @@
+# 주식가격
 # 이 코드는 O(n^2)
 def solution(prices):
     answer = [0] * len(prices)
