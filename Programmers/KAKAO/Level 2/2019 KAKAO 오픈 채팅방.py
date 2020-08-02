@@ -1,3 +1,4 @@
+# 
 def solution(record):
     answer = []
     user = {}
