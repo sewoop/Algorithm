@@ -1,4 +1,4 @@
-# 
+# 2019 KAKAO 오픈 채팅방 문제
 def solution(record):
     answer = []
     user = {}
