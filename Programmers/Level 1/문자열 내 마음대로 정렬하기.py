@@ -1,4 +1,4 @@
-# 문자열 내 p와 y의 개수
+# 문자열 내 마음대로 정렬하기
 def solution(strings, n):
     lists = [[string[n],string] for _,string in enumerate(strings)]
     temp = sorted(lists, key=lambda lists: lists[0], reverse=True)
