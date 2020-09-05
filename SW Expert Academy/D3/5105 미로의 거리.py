@@ -29,7 +29,7 @@ def maze_tracking(x: int, y: int):
             queue.append((next_x, next_y))
             maze_tracking(next_x, next_y)
 
-    queue.popleft()
+    queue.pop()  # 수정
 
 
 Ts = int(input())
