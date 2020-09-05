@@ -10,9 +10,9 @@ def find_start(N: int) -> List:
 def maze_tracking(x: int, y: int):
     global isPath, count, queue
 
-    # 우하좌상
-    dx = [1, 0, -1, 0]
-    dy = [0, -1, 0, 1]
+    # 우 하 좌 상 (수정)
+    dx = [0, 1, 0, -1]
+    dy = [1, 0, -1, 0]
 
     if maze[x][y] == 3:
         isPath = True
