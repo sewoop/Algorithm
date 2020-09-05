@@ -7,9 +7,9 @@ def find_start():
                 return i, j
 
 def maze_tracking(x, y):
-    # 우, 하, 좌, 상 
-    dx = [1, 0, -1, 0]
-    dy = [0, -1, 0, 1]
+    # 우 하 좌 상 (수정) 
+    dx = [0, 1, 0, -1]
+    dy = [1, 0, -1, 0]
 
     global isPath
 
