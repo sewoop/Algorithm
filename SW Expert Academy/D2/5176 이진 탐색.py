@@ -16,5 +16,5 @@ for t in range(1, ts + 1):
     count = 1
     Tree(1)
 
-    print(tree)
+    # print(tree)
     print(f'#{t} {tree[1]} {tree[N//2]}')
