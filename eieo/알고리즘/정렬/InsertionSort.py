@@ -1,5 +1,5 @@
 # 삽입 정렬
-def InsertionSort(data):
+def insertionSort(data):
     for i in range(1, len(data)):
         index = i - 1
         keyValue = data[i]
@@ -15,4 +15,4 @@ def InsertionSort(data):
 if __name__ == "__main__":
     data = [5,8,2,6,1,4,3,7]
 
-    print(InsertionSort(data))
+    print(insertionSort(data))

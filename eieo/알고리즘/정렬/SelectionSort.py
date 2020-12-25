@@ -1,5 +1,5 @@
 # 선택 정렬
-def SelectionSort(data):
+def selectionSort(data):
     for i in range(len(data)-1): # O(n)
         index = i
         for j in range(i+1, len(data)):
@@ -10,7 +10,7 @@ def SelectionSort(data):
             data[i], data[index] = data[index], data[i]
     return data
 
-def ShortSelectionSort(data):
+def shortSelectionSort(data):
     for i in range(len(data)-1):
         for j in range(i+1, len(data)):
             if data[j] < data[i]:
@@ -21,5 +21,5 @@ if __name__ == "__main__":
     data = [5,8,2,6,1,4,3,7]
     # data = [5,5,4,1,1,2,2,3]
 
-    # print(SelectionSort(data))
-    print(ShortSelectionSort(data))
+    # print(selectionSort(data))
+    print(shortSelectionSort(data))
