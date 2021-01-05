@@ -1,30 +1,22 @@
 N, M = map(int, input().split())
 
-# W = 1, B =0
-pattern = [170, 85] * 4
-board = []
+board = [input() for i in range(N)]
+answer = []
 
-for _ in range(N):
-    board.append(input().replace('W', '1').replace('B', '0'))
+for i in range(N - 7):
+    for j in range(M - 7):
+        count_x = 0
+        count_y = 0
+        for x in range(i, i + 8):
+            for y in range(j, j + 8):
+                if (x + y) % 2 == 0:
+                    if board[x][y] != 'W': count_x += 1 # [0, 0] = 'B'로 시작하는 경우
+                    if board[x][y] != 'B': count_y += 1 # [0, 0] = 'W'로 시작하는 경우
+                else:
+                    if board[x][y] != 'B': count_x += 1 # [0, 0] = 'B'로 시작하는 경우
+                    if board[x][y] != 'W': count_y += 1 # [0, 0] = 'W'로 시작하는 경우
+        
+        answer.append(count_x)
+        answer.append(count_y)
 
-def matchPatternWithCountNotMatch(pattern, board):
-    global N, M
-
-    count = 99999999
-
-    for i in range(N - 8 + 1): # 0, 1, 2
-        tempCount = 0
-        for j in range(M - 8 + 1): # 0, 1, 2, 3, 4, 5
-            for k in range(i, i + 8):
-                temp = int(board[k][j: j + 8], 2)
-                temp = bin(pattern[k - i] ^ temp)[2:]
-                
-                for x in temp:
-                    if x == '1':
-                        tempCount += 1
-            if tempCount < count:
-                count = tempCount
-    print(count)
-    return count
-
-matchPatternWithCountNotMatch(pattern, board)
+print(min(answer))
