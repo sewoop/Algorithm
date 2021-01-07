@@ -1,3 +1,4 @@
+''' Review 01
 import time
 
 def timeWrapper(func):
@@ -12,10 +13,8 @@ def timeWrapper(func):
 # 에라스토텔레스의 체
 @timeWrapper
 def Prime(start, end):
-    '''
-        2부터 시작하여 배수를 모두 False
-        end 까지
-    '''
+        # 2부터 시작하여 배수를 모두 False
+        # end 까지
     prime_list = [True for _ in range(end + 1)] # 0 - end까지의 True 배열
 
     for i in range(2, end + 1):
@@ -118,10 +117,8 @@ def mergeSortDescending(data):
 
 # 퀵 정렬
 def quickSort(data):
-    '''
-        pivot을 기준으로 좌우를 나눔
-        pivot은 좌큰 찾, 우 작 찾 교차하면 R을 pivot으로 만들고 나눔
-    '''
+        # pivot을 기준으로 좌우를 나눔
+        # pivot은 좌큰 찾, 우 작 찾 교차하면 R을 pivot으로 만들고 나눔
 
     # pivot을 찾고 partitioning
     def partition(data, start, end):
@@ -219,3 +216,63 @@ if __name__ == "__main__":
     # print(result[0][1] % 1000000007)
     print(result[0][1])
     print(f'{round(time.time() - start, 4)}s')
+
+'''
+
+# Review 02 : 백트래킹
+
+def BackTrackingProblem1():
+
+    N, M = map(int, input().split())
+
+    data = [0] * (N + 1)
+    isUsed = [0] * (N + 1)
+
+    def BackTracking(index):
+        if index == M:
+            for i in range(M):
+                print(data[i], end=' ')
+            print()
+            return
+        
+        for i in range(1, N + 1):
+            if isUsed[i] == 1:
+                continue
+
+            data[index] = i
+            isUsed[i] = 1
+            BackTracking(index + 1)
+            isUsed[i] = 0
+
+    BackTracking(0)
+
+def BackTrackingProblem2():
+    N, M = map(int, input().split())
+
+    data = [0] * (N + 1)
+    isUsed = [0] * (N + 1)
+
+    def backTracking(index):
+        if index == M:
+            for i in range(M):
+                print(data[i], end=' ')
+
+            print()
+            return
+
+        for i in range(1, N + 1):
+            if isUsed[i] == 1:
+                continue    
+            data[index] = i
+
+            for j in range(i + 1):
+                isUsed[j] = 1
+            backTracking(index + 1)
+            for j in range(1, N + 1):
+                isUsed[j] = 0
+
+    backTracking(0)
+
+
+# BackTrackingProblem1()
+BackTrackingProblem2()
