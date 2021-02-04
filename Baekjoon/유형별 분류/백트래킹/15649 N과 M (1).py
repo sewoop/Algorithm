@@ -1,51 +1,23 @@
-n, m = map(int, input().split()) # 4 2
+n, m = map(int, input().split()) # 4 4
 
-data = [0] * (n + 1) # [0, 0, 0, 0]
-used = [0] * (n + 1) # [0, 0, 0, 0]
+data = [0] * m # [0, 0, 0, 0]
+used = [0] * n # [0, 0, 0, 0]
 
-def backtracking(index):
+def backtrack(index):
     if index == m:
         for i in range(m):
             print(data[i], end=" ")
         print()
         return
 
-    for i in range(1, n + 1): # 0 1 2 3
-        if not used[i]:
-            data[index] = i
-            used[i] = 1
-            backtracking(index + 1)
-            used[i] = 0
+    for i in range(1, n + 1): # 1 2 3 4
+        if not used[i - 1]:
+            data[index] = i # 1
+            used[i - 1] = 1
+            backtrack(index + 1)
+            used[i - 1] = 0
 
-backtracking(0)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+backtrack(0)
 
 '''
 N, M = map(int, input().split())
