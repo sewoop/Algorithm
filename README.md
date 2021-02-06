@@ -22,23 +22,23 @@
 <details>
     <summary>1단계</summary>
 
-- [ ] [배열 (Array)](https://github.com/seu0313/Algorithm/tree/master/ALL/check/Level%201/Array.py)
+- [ ] [배열 (Array)](https://github.com/seu0313/Algorithm/blob/master/ALL/check/Level%201/Array.md)
 
-- [ ] [연결 리스트 (Linked List)](https://github.com/seu0313/Algorithm/tree/master/ALL/check/Level%201/)
+- [ ] [연결 리스트 (Linked List)](https://github.com/seu0313/Algorithm/blob/master/ALL/check/Level%201/)
 
-- [ ] [스택, 큐, 덱 (Stack / Queue / Deque)](https://github.com/seu0313/Algorithm/tree/master/ALL/check/Level%201/)
+- [ ] [스택, 큐, 덱 (Stack / Queue / Deque)](https://github.com/seu0313/Algorithm/blob/master/ALL/check/Level%201/)
 
-- [ ] [BFS / DFS](https://github.com/seu0313/Algorithm/tree/master/ALL/check/Level%201/)
+- [ ] [BFS / DFS](https://github.com/seu0313/Algorithm/blob/master/ALL/check/Level%201/)
 
-- [ ] [재귀 (Recursive)](https://github.com/seu0313/Algorithm/tree/master/ALL/check/Level%201/)
+- [ ] [재귀 (Recursive)](https://github.com/seu0313/Algorithm/blob/master/ALL/check/Level%201/)
 
-- [ ] [백트래킹 (Backtracking)](https://github.com/seu0313/Algorithm/tree/master/ALL/check/Level%201/)
+- [ ] [백트래킹 (Backtracking)](https://github.com/seu0313/Algorithm/blob/master/ALL/check/Level%201/)
 
-- [ ] [시뮬레이션 (Simulation)](https://github.com/seu0313/Algorithm/tree/master/ALL/check/Level%201/)
+- [ ] [시뮬레이션 (Simulation)](https://github.com/seu0313/Algorithm/blob/master/ALL/check/Level%201/)
 
-- [ ] [동적 계획법 (Dynamic Programming: DP)](https://github.com/seu0313/Algorithm/tree/master/ALL/check/Level%201/)
+- [ ] [동적 계획법 (Dynamic Programming: DP)](https://github.com/seu0313/Algorithm/blob/master/ALL/check/Level%201/)
 
-- [ ] [그리디 (Greedy)](https://github.com/seu0313/Algorithm/tree/master/ALL/check/Level%201/)
+- [ ] [그리디 (Greedy)](https://github.com/seu0313/Algorithm/blob/master/ALL/check/Level%201/)
 
 </details>
 
@@ -154,4 +154,3 @@
 * []()
 
 </details>
-
