@@ -22,7 +22,7 @@
 <details>
     <summary>1단계</summary>
 
-- [ ] [배열 (Array)](https://github.com/seu0313/Algorithm/tree/master/ALL/check/Level-1/Array.py)
+- [ ] [배열 (Array)](https://github.com/seu0313/Algorithm/tree/master/ALL/check/Level_1/Array.py)
 
 - [ ] [연결 리스트 (Linked List)](https://github.com/seu0313/Algorithm/tree/master/ALL/check/)
 
