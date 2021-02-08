@@ -24,110 +24,112 @@
 
 - [ ] [배열 (Array)](https://github.com/seu0313/Algorithm/blob/master/ALL/Check/Level%201/Array.md)
 
-- [ ] [연결 리스트 (Linked List)](https://github.com/seu0313/Algorithm/blob/master/ALL/Check/Level%201/)
+- [ ] [연결 리스트 (Linked List)](https://github.com/seu0313/Algorithm/blob/master/ALL/Check/Level%201/Linked%20List.md)
 
-- [ ] [스택, 큐, 덱 (Stack / Queue / Deque)](https://github.com/seu0313/Algorithm/blob/master/ALL/Check/Level%201/)
+- [ ] [스택, 큐, 덱 (Stack / Queue / Deque)](https://github.com/seu0313/Algorithm/blob/master/ALL/Check/Level%201/Stack,%20Queue,%20Deque.md)
 
-- [ ] [BFS / DFS](https://github.com/seu0313/Algorithm/blob/master/ALL/Check/Level%201/)
+- [ ] [BFS / DFS](https://github.com/seu0313/Algorithm/blob/master/ALL/Check/Level%201/BFS,%20DFS.md)
 
-- [ ] [재귀 (Recursive)](https://github.com/seu0313/Algorithm/blob/master/ALL/Check/Level%201/)
+- [ ] [재귀 (Recursive)](https://github.com/seu0313/Algorithm/blob/master/ALL/Check/Level%201/Recursive.md)
 
-- [ ] [백트래킹 (Backtracking)](https://github.com/seu0313/Algorithm/blob/master/ALL/Check/Level%201/)
+- [ ] [백트래킹 (Backtracking)](https://github.com/seu0313/Algorithm/blob/master/ALL/Check/Level%201/Backtracking.md)
 
-- [ ] [시뮬레이션 (Simulation)](https://github.com/seu0313/Algorithm/blob/master/ALL/Check/Level%201/)
+- [ ] [정렬 (Sort)](https://github.com/seu0313/Algorithm/blob/master/ALL/Check/Level%201/Sort.md)
 
-- [ ] [동적 계획법 (Dynamic Programming: DP)](https://github.com/seu0313/Algorithm/blob/master/ALL/Check/Level%201/)
+- [ ] [시뮬레이션 (Simulation)]()
 
-- [ ] [그리디 (Greedy)](https://github.com/seu0313/Algorithm/blob/master/ALL/Check/Level%201/)
+- [ ] [동적 계획법 (Dynamic Programming: DP)](https://github.com/seu0313/Algorithm/blob/master/ALL/Check/Level%201/DP.md)
+
+- [ ] [그리디 (Greedy)](https://github.com/seu0313/Algorithm/blob/master/ALL/Check/Level%201/Greedy.md)
 
 </details>
 
 <details>
     <summary>2단계</summary>
 
-- [ ] [다익스트라](https://github.com/seu0313/Algorithm/tree/master/ALL/Check/)
+- [ ] [다익스트라](https://github.com/seu0313/Algorithm/blob/master/ALL/Check/Level%202/Dijkstra.md)
 
-- [ ] [이분 탐색](https://github.com/seu0313/Algorithm/tree/master/ALL/Check/)
+- [ ] [이분 탐색](https://github.com/seu0313/Algorithm/blob/master/ALL/Check/Level%202/Binary%20Search.md)
 
-- [ ] [Parametric Search](https://github.com/seu0313/Algorithm/tree/master/ALL/Check/)
+- [ ] [Parametric Search]()
 
-- [ ] [이진 검색 트리](https://github.com/seu0313/Algorithm/tree/master/ALL/Check/)
+- [ ] [이진 검색 트리](https://github.com/seu0313/Algorithm/blob/master/ALL/Check/Level%202/Binary%20Search.md)
 
-- [ ] [해시 (Hash)](https://github.com/seu0313/Algorithm/tree/master/ALL/Check/)
+- [ ] [해시 (Hash)](https://github.com/seu0313/Algorithm/blob/master/ALL/Check/Level%202/Hash.md)
 
-- [ ] [0-1 BFS](https://github.com/seu0313/Algorithm/tree/master/ALL/Check/)
+- [ ] [0-1 BFS]()
 
-- [ ] [Prefix Sum](https://github.com/seu0313/Algorithm/tree/master/ALL/Check/)
+- [ ] [Prefix Sum]()
 
-- [ ] [힙 (Heap)](https://github.com/seu0313/Algorithm/tree/master/ALL/Check/)
+- [ ] [힙 (Heap)](https://github.com/seu0313/Algorithm/blob/master/ALL/Check/Level%202/Heap.md)
 
-- [ ] [투 포인트](https://github.com/seu0313/Algorithm/tree/master/ALL/Check/)
+- [ ] [투 포인트](https://github.com/seu0313/Algorithm/blob/master/ALL/Check/Level%202/Two%20Point.md)
 
-- [ ] [기초 수학](https://github.com/seu0313/Algorithm/tree/master/ALL/Check/)
+- [ ] [기초 수학]()
 
-- [ ] [트라이](https://github.com/seu0313/Algorithm/tree/master/ALL/Check/)
+- [ ] [트라이](https://github.com/seu0313/Algorithm/blob/master/ALL/Check/Level%202/Trie.md)
 
-- [ ] [위상 정렬](https://github.com/seu0313/Algorithm/tree/master/ALL/Check/)
+- [ ] [위상 정렬]()
 
-- [ ] [플로이드](https://github.com/seu0313/Algorithm/tree/master/ALL/Check/)
+- [ ] [플로이드](https://github.com/seu0313/Algorithm/blob/master/ALL/Check/Level%202/Floyd%20Warshall.md)
 
-- [ ] [Meet in the Middle](https://github.com/seu0313/Algorithm/tree/master/ALL/Check/)
+- [ ] [Meet in the Middle]()
 
-- [ ] [최소 신장 트리](https://github.com/seu0313/Algorithm/tree/master/ALL/Check/)
+- [ ] [최소 신장 트리](https://github.com/seu0313/Algorithm/blob/master/ALL/Check/Level%202/MST.md)
 
-- [ ] [Union Find](https://github.com/seu0313/Algorithm/tree/master/ALL/Check/)
+- [ ] [Union Find](https://github.com/seu0313/Algorithm/blob/master/ALL/Check/Level%202/Union%20Find.md)
 
-- [ ] [Tree DP](https://github.com/seu0313/Algorithm/tree/master/ALL/Check/)
+- [ ] [Tree DP](https://github.com/seu0313/Algorithm/blob/master/ALL/Check/Level%202/Tree%20DP.md)
 
 </details>
 
 <details>
     <summary>3단계</summary>
 
-- [ ] [LCA](https://github.com/seu0313/Algorithm/tree/master/ALL/Check/)
+- [ ] [LCA]()
 
-- [ ] [단절점, 단절선](https://github.com/seu0313/Algorithm/tree/master/ALL/Check/)
+- [ ] [단절점, 단절선]()
 
-- [ ] [Bitmask DP](https://github.com/seu0313/Algorithm/tree/master/ALL/Check/)
+- [ ] [Bitmask DP](https://github.com/seu0313/Algorithm/blob/master/ALL/Check/Level%203/Bitmask.md)
 
-- [ ] [KMP](https://github.com/seu0313/Algorithm/tree/master/ALL/Check/)
+- [ ] [KMP]()
 
-- [ ] [기초 기하](https://github.com/seu0313/Algorithm/tree/master/ALL/Check/)
+- [ ] [기초 기하]()
 
-- [ ] [Monotone Stack](https://github.com/seu0313/Algorithm/tree/master/ALL/Check/)
+- [ ] [Monotone Stack]()
 
-- [ ] [이분 매칭](https://github.com/seu0313/Algorithm/tree/master/ALL/Check/)
+- [ ] [이분 매칭]()
 
-- [ ] [SCC](https://github.com/seu0313/Algorithm/tree/master/ALL/Check/)
+- [ ] [SCC]()
 
-- [ ] [2-SAT](https://github.com/seu0313/Algorithm/tree/master/ALL/Check/)
+- [ ] [2-SAT]()
 
-- [ ] [벨만 포드](https://github.com/seu0313/Algorithm/tree/master/ALL/Check/)
+- [ ] [벨만 포드]()
 
 </details>
 
 <details>
     <summary>4단계</summary>
 
-- [ ] [라빈 카프](https://github.com/seu0313/Algorithm/tree/master/ALL/Check/)
+- [ ] [라빈 카프]()
 
-- [ ] [정수론](https://github.com/seu0313/Algorithm/tree/master/ALL/Check/)
+- [ ] [정수론]()
 
-- [ ] [Segment Tree](https://github.com/seu0313/Algorithm/tree/master/ALL/Check/)
+- [ ] [Segment Tree]()
 
-- [ ] [DP 최적화](https://github.com/seu0313/Algorithm/tree/master/ALL/Check/)
+- [ ] [DP 최적화]()
 
-- [ ] [아호 코라식](https://github.com/seu0313/Algorithm/tree/master/ALL/Check/)
+- [ ] [아호 코라식]()
 
-- [ ] [HLD](https://github.com/seu0313/Algorithm/tree/master/ALL/Check/)
+- [ ] [HLD]()
 
-- [ ] [Centroid](https://github.com/seu0313/Algorithm/tree/master/ALL/Check/)
+- [ ] [Centroid]()
 
-- [ ] [Sqrt Decomposition](https://github.com/seu0313/Algorithm/tree/master/ALL/Check/)
+- [ ] [Sqrt Decomposition]()
 
-- [ ] [Hungarian](https://github.com/seu0313/Algorithm/tree/master/ALL/Check/)
+- [ ] [Hungarian]()
 
-- [ ] [...](https://github.com/seu0313/Algorithm/tree/master/ALL/Check/)
+- [ ] [...]()
 
 </details>
 
@@ -138,10 +140,50 @@
     <summary><b>2021년 2월</b></summary>
 
 ### 1주차
-* []()
-* []()
-* []()
-* []()
+* [이론 정리 - Array](https://github.com/seu0313/Algorithm/blob/master/ALL/Check/Level%201/Array.md)
+* [이론 정리 - Linked List](https://github.com/seu0313/Algorithm/blob/master/ALL/Check/Level%201/Linked%20List.md)
+* [이론 정리 - Stack, Queue, Deque](https://github.com/seu0313/Algorithm/blob/master/ALL/Check/Level%201/Stack,%20Queue,%20Deque.md)
+
+### 2주차
+* [이론 정리 - DFS / BFS](https://github.com/seu0313/Algorithm/blob/master/ALL/Check/Level%201/BFS,%20DFS.md)
+* [이론 정리 - Recursive](https://github.com/seu0313/Algorithm/blob/master/ALL/Check/Level%201/Recursive.md)
+* [이론 정리 - Backtracking](https://github.com/seu0313/Algorithm/blob/master/ALL/Check/Level%201/Backtracking.md)
+
+### 3주차
+* [이론 정리 - Sort](https://github.com/seu0313/Algorithm/blob/master/ALL/Check/Level%201/Sort.md)
+
+### 4주차
+* [이론 정리 - Dynamic Programming](https://github.com/seu0313/Algorithm/blob/master/ALL/Check/Level%201/DP.md)
+
+### 5주차
+* [이론 정리 - Greedy](https://github.com/seu0313/Algorithm/blob/master/ALL/Check/Level%201/Greedy.md)
+
+### 6주차
+* [이론 정리 - Dijkstra](https://github.com/seu0313/Algorithm/blob/master/ALL/Check/Level%202/Dijkstra.md)
+
+### 7주차
+* [이론 정리 - Binary Search](https://github.com/seu0313/Algorithm/blob/master/ALL/Check/Level%202/Binary%20Search.md)
+* [이론 정리 - Binary Search Tree](https://github.com/seu0313/Algorithm/blob/master/ALL/Check/Level%202/Binary%20Search.md)
+
+### 8주차
+* [이론 정리 - Hash](https://github.com/seu0313/Algorithm/blob/master/ALL/Check/Level%202/Hash.md)
+* [이론 정리 - Heap](https://github.com/seu0313/Algorithm/blob/master/ALL/Check/Level%202/Heap.md)
+
+### 9주차
+* [이론 정리 - Two Point](https://github.com/seu0313/Algorithm/blob/master/ALL/Check/Level%202/Two%20Point.md)
+* [이론 정리 - Trie](https://github.com/seu0313/Algorithm/blob/master/ALL/Check/Level%202/Trie.md)
+
+### 10주차
+* [이론 정리 - Floyd Warshall](https://github.com/seu0313/Algorithm/blob/master/ALL/Check/Level%202/Floyd%20Warshall.md)
+* [이론 정리 - Minimum Spanning Tree](https://github.com/seu0313/Algorithm/blob/master/ALL/Check/Level%202/MST.md)
+
+### 11주차
+* [이론 정리 - Union Find](https://github.com/seu0313/Algorithm/blob/master/ALL/Check/Level%202/Union%20Find.md)
+* [이론 정리 - Tree DP](https://github.com/seu0313/Algorithm/blob/master/ALL/Check/Level%202/Tree%20DP.md)
+
+### 12주차
+* [이론 정리 - Bitmask / Bit theroem](https://github.com/seu0313/Algorithm/blob/master/ALL/Check/Level%203/Bitmask.md)
+
 
 
 <hr/>
