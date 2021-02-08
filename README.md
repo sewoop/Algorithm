@@ -20,7 +20,7 @@
 ## 체크 리스트
 
 <details>
-    <summary>1단계</summary>
+    <summary><b>1단계</b></summary>
 
 - [x] 배열 (Array)
 - [ ] 연결 리스트 (Linked List)
@@ -38,7 +38,7 @@
 </details>
 
 <details>
-    <summary>2단계</summary>
+    <summary><b>2단계</b></summary>
 
 - [ ] 다익스트라 (Dijkstra)
 - [ ] 이분 탐색 (Binary Search)
@@ -63,7 +63,7 @@
 </details>
 
 <details>
-    <summary>3단계</summary>
+    <summary><b>3단계</b></summary>
 
 - [ ] LCA
 - [ ] 단절점, 단절선
@@ -79,7 +79,7 @@
 </details>
 
 <details>
-    <summary>4단계</summary>
+    <summary><b>4단계</b></summary>
 
 - [ ] 라빈 카프
 - [ ] 정수론
@@ -186,18 +186,5 @@
 ### 14주차
 * [이론 학습 - Bit]()
 * [이론 학습 - Bitmask]()
-
-
-
-<hr/>
-
-`양식`
-### 주차
-* []()
-* []()
-* []()
-* []()
-
-* [프로그래머스 - ]()
 
 </details>
