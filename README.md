@@ -26,7 +26,7 @@
 - [x] 연결 리스트 (Linked List)
 - [x] 스택, 큐, 덱 (Stack / Queue / Deque)
 - [ ] BFS / DFS
-- [ ] 재귀 (Recursive)
+- [ ] 재귀 (Recursion)
 - [ ] 백트래킹 (Backtracking)
 - [ ] 정렬 (Sort)
 - [ ] 순열, 조합 (Permutation / Combination)
@@ -110,9 +110,10 @@
 * [프로그래머스 - 프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)
 
 ### 2주차
-* [이론 학습 - DFS / BFS]()
-* [이론 학습 - Recursive]()
-* [이론 학습 - Backtracking]()
+* [이론 학습 - DFS](https://gmlwjd9405.github.io/2018/08/14/algorithm-dfs.html)
+* [이론 학습 - BFS](https://gmlwjd9405.github.io/2018/08/15/algorithm-bfs.html)
+* [이론 학습 - Recursion](http://10bun.tv/beginner/episode-4/#%ED%95%B5%EC%8B%AC-%EA%B0%95%EC%9D%98)
+* [이론 학습 - Backtracking](https://idea-sketch.tistory.com/29)
 * [프로그래머스 - 타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)
 * [프로그래머스 - 네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)
 * [프로그래머스 - 단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)
