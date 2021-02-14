@@ -25,15 +25,15 @@
 - [x] 배열 (Array)
 - [x] 연결 리스트 (Linked List)
 - [x] 스택, 큐, 덱 (Stack / Queue / Deque)
-- [ ] BFS / DFS
-- [ ] 재귀 (Recursion)
-- [ ] 백트래킹 (Backtracking)
+- [x] BFS / DFS
+- [x] 재귀 (Recursion)
+- [x] 백트래킹 (Backtracking)
 - [ ] 정렬 (Sort)
-- [ ] 순열, 조합 (Permutation / Combination)
+- [x] 순열, 조합 (Permutation / Combination)
 - [ ] 시뮬레이션 (Simulation)
 - [ ] 동적 계획법 (Dynamic Programming: DP)
 - [ ] 그리디 (Greedy)
-- [ ] 그래프 (Graph)
+- [x] 그래프 (Graph)
 
 </details>
 
@@ -47,7 +47,7 @@
 - [ ] 해시 (Hash)
 - [ ] 0-1 BFS
 - [ ] Prefix Sum
-- [ ] 힙 (Heap)
+- [x] 힙 (Heap)
 - [ ] 투 포인트
 - [ ] 기초 수학
 - [ ] Trie
@@ -141,7 +141,7 @@
 * [프로그래머스 - 단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884)
 
 ### 6주차
-* [이론 학습 - Graph]()
+* [이론 학습 - Graph](https://gmlwjd9405.github.io/2018/08/13/data-structure-graph.html)
 * [이론 학습 - Dijkstra]()
 * [프로그래머스 - 가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)
 * [프로그래머스 - 순위](https://programmers.co.kr/learn/courses/30/lessons/49191)
@@ -160,7 +160,7 @@
 * [프로그래머스 - 베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)
 
 ### 9주차
-* [이론 학습 - Heap]()
+* [이론 학습 - Heap](https://gmlwjd9405.github.io/2018/05/10/data-structure-heap.html)
 * [프로그래머스 - 더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)
 * [프로그래머스 - 디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)
 * [프로그래머스 - 이중 우선순위 큐](https://programmers.co.kr/learn/courses/30/lessons/42628)
