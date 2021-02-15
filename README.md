@@ -52,12 +52,12 @@
 - [ ] 기초 수학
 - [ ] Trie
 - [ ] 위상 정렬
-- [ ] Kruskal
-- [ ] Prim
+- [x] 최소 신장 트리 (Minimum Spanning Tree)
+- [x] Kruskal
+- [x] Prim
 - [ ] Floyd Warshall
 - [ ] Meet in the Middle
-- [ ] 최소 신장 트리 (Minimum Spanning Tree)
-- [ ] Union Find
+- [x] Union Find
 - [ ] Tree DP
 
 </details>
