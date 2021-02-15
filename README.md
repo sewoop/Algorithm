@@ -173,13 +173,13 @@
 * [이론 학습 - Trie]()
 
 ### 11주차
-* [이론 학습 - Kruskal]()
-* [이론 학습 - Prim]()
-* [이론 학습 - Floyd Warshall]()
-* [이론 학습 - Bellman Ford]()
+* [이론 학습 - Minimum Spanning Tree](https://gmlwjd9405.github.io/2018/08/28/algorithm-mst.html)
+* [이론 학습 - Kruskal](https://gmlwjd9405.github.io/2018/08/29/algorithm-kruskal-mst.html)
+* [이론 학습 - Prim](https://gmlwjd9405.github.io/2018/08/30/algorithm-prim-mst.html)
 
 ### 12주차
-* [이론 학습 - Minimum Spanning Tree]()
+* [이론 학습 - Floyd Warshall]()
+* [이론 학습 - Bellman Ford]()
 
 ### 13주차
 * [이론 학습 - Union Find]()
