@@ -40,11 +40,11 @@
 <details>
     <summary><b>2단계</b></summary>
 
-- [ ] 다익스트라 (Dijkstra)
+- [x] 다익스트라 (Dijkstra)
 - [ ] 이분 탐색 (Binary Search)
 - [ ] Parametric Search
 - [ ] 이진 검색 트리 (Binary Search Tree)
-- [ ] 해시 (Hash)
+- [x] 해시 (Hash)
 - [ ] 0-1 BFS
 - [ ] Prefix Sum
 - [x] 힙 (Heap)
@@ -55,7 +55,7 @@
 - [x] 최소 신장 트리 (Minimum Spanning Tree)
 - [x] Kruskal
 - [x] Prim
-- [ ] Floyd Warshall
+- [x] Floyd Warshall
 - [ ] Meet in the Middle
 - [x] Union Find
 - [ ] Tree DP
