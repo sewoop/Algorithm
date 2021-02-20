@@ -28,7 +28,7 @@
 - [x] BFS / DFS
 - [x] 재귀 (Recursion)
 - [x] 백트래킹 (Backtracking)
-- [ ] 정렬 (Sort)
+- [x] 정렬 (Sort)
 - [x] 순열, 조합 (Permutation / Combination)
 - [ ] 시뮬레이션 (Simulation)
 - [ ] 동적 계획법 (Dynamic Programming: DP)
