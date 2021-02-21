@@ -43,7 +43,7 @@
 - [x] 다익스트라 (Dijkstra)
 - [ ] 이분 탐색 (Binary Search)
 - [ ] Parametric Search
-- [ ] 이진 검색 트리 (Binary Search Tree)
+- [x] 이진 검색 트리 (Binary Search Tree)
 - [x] 해시 (Hash)
 - [ ] 0-1 BFS
 - [ ] Prefix Sum
