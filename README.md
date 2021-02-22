@@ -107,7 +107,7 @@
 * [x] [이론 학습 - Queue, Deque](https://gmlwjd9405.github.io/2018/08/02/data-structure-queue.html)
 * [x] [프로그래머스 - 기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)
 * [x] [프로그래머스 - 다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)
-* [프로그래머스 - 프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)
+* [x] [프로그래머스 - 프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)
 
 ### 2주차
 * [이론 학습 - DFS](https://gmlwjd9405.github.io/2018/08/14/algorithm-dfs.html)
