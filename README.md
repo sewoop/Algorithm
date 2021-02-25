@@ -31,7 +31,7 @@
 - [x] 정렬 (Sort)
 - [x] 순열, 조합 (Permutation / Combination)
 - [ ] 시뮬레이션 (Simulation)
-- [ ] 동적 계획법 (Dynamic Programming: DP)
+- [x] 동적 계획법 (Dynamic Programming: DP)
 - [x] 그리디 (Greedy)
 - [x] 그래프 (Graph)
 
