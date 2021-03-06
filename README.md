@@ -116,7 +116,7 @@
 ### 2주차
 * [ ] [이론 학습 - DFS](https://gmlwjd9405.github.io/2018/08/14/algorithm-dfs.html)
 * [ ] [이론 학습 - BFS](https://gmlwjd9405.github.io/2018/08/15/algorithm-bfs.html)
-* [ ] [이론 학습 - Recursion](http://10bun.tv/beginner/episode-4/#%ED%95%B5%EC%8B%AC-%EA%B0%95%EC%9D%98)
+* [x] [이론 학습 - Recursion](http://10bun.tv/beginner/episode-4/#%ED%95%B5%EC%8B%AC-%EA%B0%95%EC%9D%98)
 * [ ] [이론 학습 - Backtracking](https://idea-sketch.tistory.com/29)
 * [x] [프로그래머스 - 타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)
 * [x] [프로그래머스 - 네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)
