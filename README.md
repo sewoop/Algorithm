@@ -121,7 +121,7 @@
 * [x] [프로그래머스 - 타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)
 * [x] [프로그래머스 - 네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)
 * [x] [프로그래머스 - 단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)
-* [ ] [프로그래머스 - 여행 경로](https://programmers.co.kr/learn/courses/30/lessons/43164)
+* [x] [프로그래머스 - 여행 경로](https://programmers.co.kr/learn/courses/30/lessons/43164)
 * [ ] [이취코 - 3. 그리디 (큰 수의 법칙)]()
 * [ ] [이취코 - 3. 그리디 (숫자 카드 게임)]()
 * [ ] [이취코 - 3. 그리디 (1이 될 때까지)]()
