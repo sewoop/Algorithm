@@ -109,10 +109,6 @@
 * [x] [프로그래머스 - 다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)
 * [x] [프로그래머스 - 프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)
 
-</details>
-
-> 2021 (진행중)
-
 ### 2주차
 * [ ] [이론 학습 - DFS](https://gmlwjd9405.github.io/2018/08/14/algorithm-dfs.html)
 * [ ] [이론 학습 - BFS](https://gmlwjd9405.github.io/2018/08/15/algorithm-bfs.html)
@@ -129,6 +125,10 @@
 * [ ] [이취코 - 4. 구현 (게임 개발)]()
 * [ ] [이취코 - 5. DFS/BFS (음료수 얼려 먹기)]()
 * [ ] [이취코 - 5. DFS/BFS (미로 탈출)]()
+
+</details>
+
+> 2021 (진행중)
 
 ### 3주차
 * [ ] [이론 학습 - Permutaion / Combination]()
