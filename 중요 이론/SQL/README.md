@@ -285,11 +285,17 @@ ON 테이블1.컬럼 = 테이블2.컬럼;
 -- 이론
 SELECT 컬럼
 FROM 테이블1
-FULL OUTER JOIN 테이블2
+FULL OUTER JOIN 테이블2 # MySQL은 지원하지 않음
 ON 테이블1.컬럼 = 테이블2.컬럼;
 
--- Example
-
+# 따라서, MySQL에서 FULL OUTER JOIN을 구현하기 위해서는 UNION을 사용
+SELECT * FROM 테이블1
+LEFT JOIN 테이블2
+ON 테이블1.컬럼 = 테이블2.컬럼
+UNION
+SELECT * FROM 테이블1
+RIGHT JOIN 테이블2
+ON 테이블1.컬럼 = 테이블2.컬럼
 ```
 
 ### CROSS JOIN : 곱집합
@@ -307,13 +313,16 @@ ON 테이블1.컬럼 = 테이블2.컬럼;
 ### SELF JOIN : 자기 자신과의 곱집합
 ```SQL
 -- 이론
-SELECT 컬럼
-FROM 테이블1
-FULL OUTER JOIN 테이블2
+SELECT 테1.ID, 테1.NAME, 테2.NAME
+FROM 테이블 AS 테1
+JOIN 테이블 AS 테2
 ON 테이블1.컬럼 = 테이블2.컬럼;
 
 -- Example
-
+SELECT EM1.ID, EM1.NAME, EM2.NAME 
+FROM EMPLOYEE EM1 
+JOIN EMPLOYEE EM2 
+ON EM1.SUPERIOR_ID = EM2.ID;
 ```
 
 ---
