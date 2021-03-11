@@ -17,6 +17,9 @@
 
 <hr/>
 
+## SQL 구문 정리
+[SQL 구문 정리한 문서](https://github.com/seu0313/Algorithm/tree/master/중요%20이론/SQL)
+
 ## 체크 리스트
 
 <details>
