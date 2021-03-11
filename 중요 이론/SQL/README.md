@@ -242,6 +242,8 @@ SELECT NAME, ANIMAL_TYPE FROM ANIMAL_INS WHERE ANIMAL_TYPE IS NOT NULL;
 ---
 
 ## JOIN (매우 중요 ***)
+<img width="785" alt="스크린샷 2021-03-11 오후 6 13 16" src="https://user-images.githubusercontent.com/38010141/110763707-851de900-8295-11eb-96af-3be51f542da6.png">
+
 ### LEFT JOIN : 부분 집합
 ```SQL
 -- 이론
