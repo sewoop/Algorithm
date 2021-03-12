@@ -9,58 +9,59 @@
 ## 풀이 LINK
 |알고리즘 사이트|풀이 링크|
 |:---:|:---:|
-|알고리즘 책 [[1]](https://book.naver.com/bookdb/book_detail.nhn?bid=16406247) [[2]](https://book.naver.com/bookdb/book_detail.nhn?bid=16439154)|[바로가기](https://github.com/seu0313/Algorithm/tree/master/Test)|
+|이론 [[1]](https://book.naver.com/bookdb/book_detail.nhn?bid=16406247) [[2]](https://book.naver.com/bookdb/book_detail.nhn?bid=16439154)|[바로가기](https://github.com/seu0313/Algorithm/tree/master/중요%20이론)|
 |[백준 BOJ](https://www.acmicpc.net)|[바로가기](https://github.com/seu0313/Algorithm/tree/master/BOJ)|
 |[프로그래머스](https://programmers.co.kr/learn/challenges)|[바로가기](https://github.com/seu0313/Algorithm/tree/master/Programmers)|
 |[삼성 SWEA](https://swexpertacademy.com/main/main.do)|[바로가기](https://github.com/seu0313/Algorithm/tree/master/SWEA)|
-|[`ALL`]()|[바로가기](https://github.com/seu0313/Algorithm/tree/master/ALL)|
 
-<hr/>
+---
 
-## SQL 구문 정리
-[SQL 구문 정리한 문서](https://github.com/seu0313/Algorithm/tree/master/중요%20이론/SQL)
+## 1. SQL 구문 정리
+- [SQL 구문 정리한 문서](https://github.com/seu0313/Algorithm/tree/master/중요%20이론/SQL)
+
+---
 
 ## 체크 리스트
 
 <details>
     <summary><b>1단계</b></summary>
 
-- [x] 배열 (Array)
-- [x] 연결 리스트 (Linked List)
-- [x] 스택, 큐, 덱 (Stack / Queue / Deque)
-- [x] BFS / DFS
-- [x] 재귀 (Recursion)
-- [x] 백트래킹 (Backtracking)
-- [x] 정렬 (Sort)
-- [x] 순열, 조합 (Permutation / Combination)
+- [ ] 배열 (Array)
+- [ ] 연결 리스트 (Linked List)
+- [ ] 스택, 큐, 덱 (Stack / Queue / Deque)
+- [ ] BFS / DFS
+- [ ] 재귀 (Recursion)
+- [ ] 백트래킹 (Backtracking)
+- [ ] 정렬 (Sort)
+- [ ] 순열, 조합 (Permutation / Combination)
 - [ ] 시뮬레이션 (Simulation)
-- [x] 동적 계획법 (Dynamic Programming: DP)
-- [x] 그리디 (Greedy)
-- [x] 그래프 (Graph)
+- [ ] 동적 계획법 (Dynamic Programming: DP)
+- [ ] 그리디 (Greedy)
+- [ ] 그래프 (Graph)
 
 </details>
 
 <details>
     <summary><b>2단계</b></summary>
 
-- [x] 다익스트라 (Dijkstra)
-- [ ] 이분 탐색 (Binary Search)
+- [ ] 다익스트라 (Dijkstra)
+- [ ] 이진 탐색 (Binary Search)
 - [ ] Parametric Search
-- [x] 이진 검색 트리 (Binary Search Tree)
-- [x] 해시 (Hash)
+- [ ] 이진 검색 트리 (Binary Search Tree)
+- [ ] 해시 (Hash)
 - [ ] 0-1 BFS
 - [ ] Prefix Sum
-- [x] 힙 (Heap)
+- [ ] 힙 (Heap)
 - [ ] 투 포인트
 - [ ] 기초 수학
 - [ ] Trie
 - [ ] 위상 정렬
-- [x] 최소 신장 트리 (Minimum Spanning Tree)
-- [x] Kruskal
-- [x] Prim
-- [x] Floyd Warshall
+- [ ] 최소 신장 트리 (Minimum Spanning Tree)
+- [ ] Kruskal
+- [ ] Prim
+- [ ] Floyd Warshall
 - [ ] Meet in the Middle
-- [x] Union Find
+- [ ] Union Find
 - [ ] Tree DP
 
 </details>
@@ -97,7 +98,7 @@
 
 </details>
 
-<hr/>
+---
 
 ## 주차 별 풀이
 <details>
@@ -143,6 +144,9 @@
 * [ ] [이취코 - 6. 정렬 (두 배열의 원소 교체)]()
 * [ ] [이취코 - 7. 이진 탐색 (부품 찾기)]()
 * [ ] [이취코 - 7. 이진 탐색 (떡볶이 떡 만들기)]()
+
+<details>
+    <summary><b>2021년 (예정 목록)</b></summary>
 
 ### 4주차
 * [ ] [이론 학습 - Dynamic Programming]()
@@ -286,5 +290,6 @@
 * [ ] [이취코 기출 - 21. 삼성전자 ()]()
 * [ ] [이취코 기출 - 21. 삼성전자 ()]()
 
+</details>
 
 - [참고](https://gmlwjd9405.github.io/2017/10/01/basic-concepts-of-development-algorithm.html)
