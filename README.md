@@ -26,13 +26,13 @@
 <details>
     <summary><b>1단계</b></summary>
 
-- [ ] 배열 (Array)
-- [ ] 연결 리스트 (Linked List)
-- [ ] 스택, 큐, 덱 (Stack / Queue / Deque)
-- [ ] BFS / DFS
+- [x] 배열 (Array)
+- [x] 연결 리스트 (Linked List)
+- [x] 스택, 큐, 덱 (Stack / Queue / Deque)
+- [x] BFS / DFS
 - [ ] 재귀 (Recursion)
 - [ ] 백트래킹 (Backtracking)
-- [ ] 정렬 (Sort)
+- [x] 정렬 (Sort)
 - [ ] 순열, 조합 (Permutation / Combination)
 - [ ] 시뮬레이션 (Simulation)
 - [ ] 동적 계획법 (Dynamic Programming: DP)
@@ -45,13 +45,13 @@
     <summary><b>2단계</b></summary>
 
 - [ ] 다익스트라 (Dijkstra)
-- [ ] 이진 탐색 (Binary Search)
+- [x] 이진 트리 (Binary Tree)
 - [ ] Parametric Search
-- [ ] 이진 검색 트리 (Binary Search Tree)
+- [x] 이진 검색 트리 (Binary Search Tree)
 - [ ] 해시 (Hash)
 - [ ] 0-1 BFS
 - [ ] Prefix Sum
-- [ ] 힙 (Heap)
+- [x] 힙 (Heap)
 - [ ] 투 포인트
 - [ ] 기초 수학
 - [ ] Trie
@@ -114,8 +114,8 @@
 * [x] [프로그래머스 - 프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)
 
 ### 2주차
-* [ ] [이론 학습 - DFS](https://gmlwjd9405.github.io/2018/08/14/algorithm-dfs.html)
-* [ ] [이론 학습 - BFS](https://gmlwjd9405.github.io/2018/08/15/algorithm-bfs.html)
+* [x] [이론 학습 - DFS](https://gmlwjd9405.github.io/2018/08/14/algorithm-dfs.html)
+* [x] [이론 학습 - BFS](https://gmlwjd9405.github.io/2018/08/15/algorithm-bfs.html)
 * [x] [이론 학습 - Recursion](http://10bun.tv/beginner/episode-4/#%ED%95%B5%EC%8B%AC-%EA%B0%95%EC%9D%98)
 * [ ] [이론 학습 - Backtracking](https://idea-sketch.tistory.com/29)
 * [x] [프로그래머스 - 타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)
@@ -136,7 +136,7 @@
 
 ### 3주차
 * [ ] [이론 학습 - Permutaion / Combination]()
-* [ ] [이론 학습 - Sort]()
+* [x] [이론 학습 - Sort]()
 * [ ] [프로그래머스 - 가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)
 * [ ] [프로그래머스 - H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)
 * [ ] [이취코 - 6. 정렬 (위에서 아래로)]()
@@ -180,8 +180,8 @@
 * [ ] [이취코 - 10. 그래프 이론 (커리큘럼)]()
 
 ### 7주차 (`이취코 기출 풀이 시작`)
-* [ ] [이론 학습 - Binary Search]()
-* [ ] [이론 학습 - Binary Search Tree]()
+* [x] [이론 학습 - Binary Tree]()
+* [x] [이론 학습 - Binary Search Tree]()
 * [ ] [프로그래머스 - 입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238)
 * [ ] [프로그래머스 - 징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236)
 * [ ] [이취코 기출 - 11. 그리디 ()]()
@@ -206,7 +206,7 @@
 * [ ] [이취코 기출 - 12. 구현 ()]()
 
 ### 9주차
-* [ ] [이론 학습 - Heap](https://gmlwjd9405.github.io/2018/05/10/data-structure-heap.html)
+* [x] [이론 학습 - Heap](https://gmlwjd9405.github.io/2018/05/10/data-structure-heap.html)
 * [ ] [프로그래머스 - 더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)
 * [ ] [프로그래머스 - 디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)
 * [ ] [프로그래머스 - 이중 우선순위 큐](https://programmers.co.kr/learn/courses/30/lessons/42628)
