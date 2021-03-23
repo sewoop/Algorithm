@@ -220,7 +220,7 @@
 * [ ] [이취코 기출 - 13. DFS/BFS ()]()
 
 ### 10주차
-* [ ] [이론 학습 - Exhaustive Search (완전탐색)]()
+* [x] [이론 학습 - Exhaustive Search (완전탐색)]()
 * [ ] [프로그래머스 - 소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)
 * [ ] [프로그래머스 - 카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)
 * [ ] [이론 학습 - Two Point]()
