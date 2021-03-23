@@ -30,13 +30,13 @@
 - [x] 연결 리스트 (Linked List)
 - [x] 스택, 큐, 덱 (Stack / Queue / Deque)
 - [x] BFS / DFS
-- [ ] 재귀 (Recursion)
-- [ ] 백트래킹 (Backtracking)
+- [x] 재귀 (Recursion)
+- [x] 백트래킹 (Backtracking)
 - [x] 정렬 (Sort)
-- [ ] 순열, 조합 (Permutation / Combination)
-- [ ] 시뮬레이션 (Simulation)
+- [x] 순열, 조합 (Permutation / Combination)
+- [x] 시뮬레이션 (Simulation)
 - [ ] 동적 계획법 (Dynamic Programming: DP)
-- [ ] 그리디 (Greedy)
+- [x] 그리디 (Greedy)
 - [ ] 그래프 (Graph)
 
 </details>
