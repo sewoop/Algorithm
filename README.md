@@ -122,17 +122,13 @@
 * [x] [프로그래머스 - 네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)
 * [x] [프로그래머스 - 단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)
 * [x] [프로그래머스 - 여행 경로](https://programmers.co.kr/learn/courses/30/lessons/43164)
-* [ ] [이취코 - 3. 그리디 (큰 수의 법칙)]()
-* [ ] [이취코 - 3. 그리디 (숫자 카드 게임)]()
-* [ ] [이취코 - 3. 그리디 (1이 될 때까지)]()
+* [x] [이취코 - 3. 그리디 (큰 수의 법칙)]()
+* [x] [이취코 - 3. 그리디 (숫자 카드 게임)]()
+* [x] [이취코 - 3. 그리디 (1이 될 때까지)]()
 * [ ] [이취코 - 4. 구현 (왕실의 나이트)]()
 * [ ] [이취코 - 4. 구현 (게임 개발)]()
 * [ ] [이취코 - 5. DFS/BFS (음료수 얼려 먹기)]()
 * [ ] [이취코 - 5. DFS/BFS (미로 탈출)]()
-
-</details>
-
-> 2021 (진행중)
 
 ### 3주차
 * [ ] [이론 학습 - Permutaion / Combination]()
@@ -145,9 +141,6 @@
 * [ ] [이취코 - 7. 이진 탐색 (부품 찾기)]()
 * [ ] [이취코 - 7. 이진 탐색 (떡볶이 떡 만들기)]()
 
-<details>
-    <summary><b>2021년 (예정 목록)</b></summary>
-
 ### 4주차
 * [ ] [이론 학습 - Dynamic Programming]()
 * [ ] [프로그래머스 - N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)
@@ -159,8 +152,12 @@
 * [ ] [이취코 - 8. DP (바닥 공사)]()
 * [ ] [이취코 - 8. DP (효율적인 화폐 구성)]()
 
+</details>
+
+> 2021 (진행중)
+
 ### 5주차
-* [ ] [이론 학습 - Greedy](https://ujink.tistory.com/10)
+* [x] [이론 학습 - Greedy](https://ujink.tistory.com/10)
 * [ ] [프로그래머스 - 조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)
 * [ ] [프로그래머스 - 큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)
 * [ ] [프로그래머스 - 구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)
@@ -168,6 +165,9 @@
 * [ ] [프로그래머스 - 단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884)
 * [ ] [이취코 - 9. 최단 경로 (미래 도시)]()
 * [ ] [이취코 - 9. 최단 경로 (전보)]()
+
+<details>
+    <summary><b>2021년 (예정 목록)</b></summary>
 
 ### 6주차
 * [ ] [이론 학습 - Graph](https://gmlwjd9405.github.io/2018/08/13/data-structure-graph.html)
