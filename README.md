@@ -170,7 +170,7 @@
     <summary><b>2021년 (예정 목록)</b></summary>
 
 ### 6주차
-* [ ] [이론 학습 - Graph](https://gmlwjd9405.github.io/2018/08/13/data-structure-graph.html)
+* [x] [이론 학습 - Graph](https://gmlwjd9405.github.io/2018/08/13/data-structure-graph.html)
 * [ ] [이론 학습 - Dijkstra]()
 * [ ] [프로그래머스 - 가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)
 * [ ] [프로그래머스 - 순위](https://programmers.co.kr/learn/courses/30/lessons/49191)
