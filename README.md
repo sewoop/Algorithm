@@ -160,7 +160,7 @@
 * [x] [이론 학습 - Greedy](https://ujink.tistory.com/10)
 * [x] [프로그래머스 - 조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)
 * [x] [프로그래머스 - 큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)
-* [ ] [프로그래머스 - 구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)
+* [x] [프로그래머스 - 구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)
 * [ ] [프로그래머스 - 섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861)
 * [ ] [프로그래머스 - 단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884)
 * [ ] [이취코 - 9. 최단 경로 (미래 도시)]()
