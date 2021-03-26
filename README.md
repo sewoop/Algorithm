@@ -131,8 +131,8 @@
 * [ ] [이취코 - 5. DFS/BFS (미로 탈출)]()
 
 ### 3주차
-* [x] [이론 학습 - Permutaion / Combination]()
-* [x] [이론 학습 - Sort]()
+* [x] [이론 학습 - Permutaion / Combination](https://coding-factory.tistory.com/606)
+* [x] [이론 학습 - Sort](https://www.toptal.com/developers/sorting-algorithms)
 * [x] [프로그래머스 - 가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)
 * [x] [프로그래머스 - H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)
 * [ ] [이취코 - 6. 정렬 (위에서 아래로)]()
@@ -142,7 +142,7 @@
 * [ ] [이취코 - 7. 이진 탐색 (떡볶이 떡 만들기)]()
 
 ### 4주차
-* [ ] [이론 학습 - Dynamic Programming]()
+* [x] [이론 학습 - Dynamic Programming](https://galid1.tistory.com/507)
 * [ ] [프로그래머스 - N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)
 * [ ] [프로그래머스 - 정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105)
 * [ ] [프로그래머스 - 등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898)
