@@ -135,7 +135,7 @@
 * [x] [이론 학습 - Sort](https://www.toptal.com/developers/sorting-algorithms)
 * [x] [프로그래머스 - 가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)
 * [x] [프로그래머스 - H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)
-* [ ] [이취코 - 6. 정렬 (위에서 아래로)]()
+* [x] [이취코 - 6. 정렬 (위에서 아래로)]()
 * [ ] [이취코 - 6. 정렬 (성적이 낮은 순서로 학생 출력하기)]()
 * [ ] [이취코 - 6. 정렬 (두 배열의 원소 교체)]()
 * [ ] [이취코 - 7. 이진 탐색 (부품 찾기)]()
