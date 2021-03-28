@@ -128,7 +128,7 @@
 * [x] [이취코 - 4. 구현 (왕실의 나이트)]()
 * [x] [이취코 - 4. 구현 (게임 개발)]()
 * [x] [이취코 - 5. DFS/BFS (음료수 얼려 먹기)]()
-* [ ] [이취코 - 5. DFS/BFS (미로 탈출)]()
+* [x] [이취코 - 5. DFS/BFS (미로 탈출)]()
 
 ### 3주차
 * [x] [이론 학습 - Permutaion / Combination](https://coding-factory.tistory.com/606)
