@@ -152,10 +152,6 @@
 * [x] [이취코 - 8. DP (바닥 공사)]()
 * [x] [이취코 - 8. DP (효율적인 화폐 구성)]()
 
-</details>
-
-> 2021 (진행중)
-
 ### 5주차
 * [x] [이론 학습 - Greedy](https://ujink.tistory.com/10)
 * [x] [프로그래머스 - 조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)
@@ -166,8 +162,9 @@
 * [ ] [이취코 - 9. 최단 경로 (미래 도시)]()
 * [ ] [이취코 - 9. 최단 경로 (전보)]()
 
-<details>
-    <summary><b>2021년 (예정 목록)</b></summary>
+</details>
+
+> 2021 (진행중)
 
 ### 6주차
 * [x] [이론 학습 - Graph](https://gmlwjd9405.github.io/2018/08/13/data-structure-graph.html)
@@ -178,6 +175,9 @@
 * [ ] [이취코 - 10. 그래프 이론 (팀 결성)]()
 * [ ] [이취코 - 10. 그래프 이론 (도시 분할 계획)]()
 * [ ] [이취코 - 10. 그래프 이론 (커리큘럼)]()
+
+<details>
+    <summary><b>2021년 (예정 목록)</b></summary>
 
 ### 7주차 (`이취코 기출 풀이 시작`)
 * [x] [이론 학습 - Binary Tree]()
