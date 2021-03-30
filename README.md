@@ -148,7 +148,7 @@
 * [ ] [프로그래머스 - 등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898)
 * [ ] [프로그래머스 - 도둑질](https://programmers.co.kr/learn/courses/30/lessons/42897)
 * [x] [이취코 - 8. DP (1로 만들기)]()
-* [ ] [이취코 - 8. DP (개미 전사)]()
+* [x] [이취코 - 8. DP (개미 전사)]()
 * [ ] [이취코 - 8. DP (바닥 공사)]()
 * [ ] [이취코 - 8. DP (효율적인 화폐 구성)]()
 
