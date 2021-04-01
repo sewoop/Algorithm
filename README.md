@@ -168,7 +168,8 @@
 
 ### 6주차
 * [x] [이론 학습 - Graph](https://gmlwjd9405.github.io/2018/08/13/data-structure-graph.html)
-* [ ] [이론 학습 - Dijkstra]()
+* [x] [이론 학습 - Dijkstra]()
+* [x] [이론 학습 - Floyd Warshall]()
 * [ ] [프로그래머스 - 가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)
 * [ ] [프로그래머스 - 순위](https://programmers.co.kr/learn/courses/30/lessons/49191)
 * [ ] [프로그래머스 - 방의 개수](https://programmers.co.kr/learn/courses/30/lessons/49190)
@@ -240,7 +241,6 @@
 * [ ] [이취코 기출 - 15. 이진 탐색 ()]()
 
 ### 12주차
-* [ ] [이론 학습 - Floyd Warshall]()
 * [ ] [이론 학습 - Bellman Ford]()
 * [ ] [이취코 기출 - 16. DP ()]()
 * [ ] [이취코 기출 - 16. DP ()]()
