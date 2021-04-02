@@ -59,7 +59,7 @@
 - [ ] 최소 신장 트리 (Minimum Spanning Tree)
 - [ ] Kruskal
 - [ ] Prim
-- [ ] Floyd Warshall
+- [x] Floyd Warshall
 - [ ] Meet in the Middle
 - [ ] Union Find
 - [ ] Tree DP
