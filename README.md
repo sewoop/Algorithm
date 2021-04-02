@@ -44,7 +44,7 @@
 <details>
     <summary><b>2단계</b></summary>
 
-- [ ] 다익스트라 (Dijkstra)
+- [x] 다익스트라 (Dijkstra)
 - [x] 이진 트리 (Binary Tree)
 - [ ] Parametric Search
 - [x] 이진 검색 트리 (Binary Search Tree)
