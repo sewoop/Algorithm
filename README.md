@@ -159,7 +159,7 @@
 * [x] [프로그래머스 - 구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)
 * [ ] [프로그래머스 - 섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861)
 * [ ] [프로그래머스 - 단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884)
-* [ ] [이취코 - 9. 최단 경로 (미래 도시)]()
+* [x] [이취코 - 9. 최단 경로 (미래 도시)]()
 * [ ] [이취코 - 9. 최단 경로 (전보)]()
 
 </details>
