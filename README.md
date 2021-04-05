@@ -180,7 +180,7 @@
 <details>
     <summary><b>2021년 (예정 목록)</b></summary>
 
-### 7주차 (`이취코 기출 풀이 시작`)
+### 8주차 (`이취코 기출 풀이 시작`)
 * [x] [이론 학습 - Binary Tree]()
 * [x] [이론 학습 - Binary Search Tree]()
 * [ ] [프로그래머스 - 입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238)
@@ -192,7 +192,7 @@
 * [ ] [이취코 기출 - 11. 그리디 ()]()
 * [ ] [이취코 기출 - 11. 그리디 ()]()
 
-### 8주차
+### 9주차
 * [ ] [이론 학습 - Hash]()
 * [ ] [프로그래머스 - 전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)
 * [ ] [프로그래머스 - 위장](https://programmers.co.kr/learn/courses/30/lessons/42578)
@@ -206,7 +206,7 @@
 * [ ] [이취코 기출 - 12. 구현 ()]()
 * [ ] [이취코 기출 - 12. 구현 ()]()
 
-### 9주차
+### 10주차
 * [x] [이론 학습 - Heap](https://gmlwjd9405.github.io/2018/05/10/data-structure-heap.html)
 * [ ] [프로그래머스 - 더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)
 * [ ] [프로그래머스 - 디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)
@@ -220,7 +220,7 @@
 * [ ] [이취코 기출 - 13. DFS/BFS ()]()
 * [ ] [이취코 기출 - 13. DFS/BFS ()]()
 
-### 10주차
+### 11주차
 * [x] [이론 학습 - Exhaustive Search (완전탐색)]()
 * [ ] [프로그래머스 - 소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)
 * [ ] [프로그래머스 - 카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)
@@ -231,7 +231,7 @@
 * [ ] [이취코 기출 - 14. 정렬 ()]()
 * [ ] [이취코 기출 - 14. 정렬 ()]()
 
-### 11주차
+### 12주차
 * [ ] [이론 학습 - Minimum Spanning Tree](https://gmlwjd9405.github.io/2018/08/28/algorithm-mst.html)
 * [ ] [이론 학습 - Kruskal](https://gmlwjd9405.github.io/2018/08/29/algorithm-kruskal-mst.html)
 * [ ] [이론 학습 - Prim](https://gmlwjd9405.github.io/2018/08/30/algorithm-prim-mst.html)
@@ -240,7 +240,7 @@
 * [ ] [이취코 기출 - 15. 이진 탐색 ()]()
 * [ ] [이취코 기출 - 15. 이진 탐색 ()]()
 
-### 12주차
+### 13주차
 * [ ] [이론 학습 - Bellman Ford]()
 * [ ] [이취코 기출 - 16. DP ()]()
 * [ ] [이취코 기출 - 16. DP ()]()
@@ -249,7 +249,7 @@
 * [ ] [이취코 기출 - 16. DP ()]()
 * [ ] [이취코 기출 - 16. DP ()]()
 
-### 13주차
+### 14주차
 * [ ] [이론 학습 - Union Find]()
 * [ ] [이론 학습 - Tree DP]()
 * [ ] [이취코 기출 - 17. 최단 경로 ()]()
@@ -257,7 +257,7 @@
 * [ ] [이취코 기출 - 17. 최단 경로 ()]()
 * [ ] [이취코 기출 - 17. 최단 경로 ()]()
 
-### 14주차
+### 15주차
 * [ ] [이론 학습 - Bit]()
 * [ ] [이론 학습 - Bitmask]()
 * [ ] [이취코 기출 - 18. 그래프 ()]()
@@ -266,7 +266,7 @@
 * [ ] [이취코 기출 - 18. 그래프 ()]()
 * [ ] [이취코 기출 - 18. 그래프 ()]()
 
-### 15주차 `이후..`
+### 16주차 `이후..`
 * [ ] [이취코 기출 - 19. 2020 상반기 삼성전자 ()]()
 * [ ] [이취코 기출 - 19. 2020 상반기 삼성전자 ()]()
 * [ ] [이취코 기출 - 19. 2020 상반기 삼성전자 ()]()
