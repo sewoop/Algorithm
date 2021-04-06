@@ -55,13 +55,13 @@
 - [ ] 투 포인트
 - [ ] 기초 수학
 - [ ] Trie
-- [ ] 위상 정렬
-- [ ] 최소 신장 트리 (Minimum Spanning Tree)
-- [ ] Kruskal
+- [x] 위상 정렬
+- [x] 최소 신장 트리 (Minimum Spanning Tree)
+- [x] Kruskal
 - [ ] Prim
 - [x] Floyd Warshall
 - [ ] Meet in the Middle
-- [ ] Union Find
+- [x] Union Find
 - [ ] Tree DP
 
 </details>
@@ -234,8 +234,8 @@
 * [ ] [이취코 기출 - 14. 정렬 ()]()
 
 ### 12주차
-* [ ] [이론 학습 - Minimum Spanning Tree](https://gmlwjd9405.github.io/2018/08/28/algorithm-mst.html)
-* [ ] [이론 학습 - Kruskal](https://gmlwjd9405.github.io/2018/08/29/algorithm-kruskal-mst.html)
+* [x] [이론 학습 - Minimum Spanning Tree](https://gmlwjd9405.github.io/2018/08/28/algorithm-mst.html)
+* [x] [이론 학습 - Kruskal](https://gmlwjd9405.github.io/2018/08/29/algorithm-kruskal-mst.html)
 * [ ] [이론 학습 - Prim](https://gmlwjd9405.github.io/2018/08/30/algorithm-prim-mst.html)
 * [ ] [이취코 기출 - 15. 이진 탐색 ()]()
 * [ ] [이취코 기출 - 15. 이진 탐색 ()]()
@@ -252,7 +252,7 @@
 * [ ] [이취코 기출 - 16. DP ()]()
 
 ### 14주차
-* [ ] [이론 학습 - Union Find]()
+* [x] [이론 학습 - Union Find]()
 * [ ] [이론 학습 - Tree DP]()
 * [ ] [이취코 기출 - 17. 최단 경로 ()]()
 * [ ] [이취코 기출 - 17. 최단 경로 ()]()
