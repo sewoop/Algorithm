@@ -1,3 +1,4 @@
+"""
 # 특정 원소가 속한 집합을 찾기
 def find_parent(parent, x):
     # 만약 루트 노드가 아니라면 찾을 때까지 재귀적으로 호출
@@ -47,4 +48,47 @@ else:
 1 2
 1 3
 2 3
+'''
+"""
+
+# 유니온 파인드 사이클 복습
+def find_parent(parent, x):
+    if parent[x] != x:
+        parent[x] = find_parent(parent, parent[x])
+    return parent[x]
+
+def union_parent(parent, a, b):
+    a = find_parent(parent, a)
+    b = find_parent(parent, b)
+
+    if a < b:
+        parent[b] = a
+    else:
+        parent[a] = b
+
+v, e = map(int, input().split())
+parent = [i for i in range(v + 1)]
+
+cycle = False
+for _ in range(e):
+    a, b = map(int, input().split())
+
+    # a의 부모와 b의 부모가 같다는 것은 cycle이 있다고 봐야한다.
+    if find_parent(parent, a) == find_parent(parent, b):
+        cycle = True; break
+    else:
+        union_parent(parent, a, b)
+
+if cycle:
+    print("cycle")
+else:
+    print("no cycle")
+
+print(*parent)
+
+'''
+4 3
+1 2
+1 3
+2 4
 '''

@@ -1,3 +1,4 @@
+"""
 # Topology Sort
 from collections import deque
 
@@ -45,6 +46,60 @@ def topology_sort():
     # 위상 정렬 결과 출력
     for i in result:
         print(i, end=' ')
+
+topology_sort()
+
+'''
+7 8
+1 2
+1 5
+2 3
+2 6
+3 4
+4 7
+5 6
+6 4
+'''
+"""
+
+# 위상 정렬 복습
+from collections import deque
+
+v, e = map(int, input().split())
+
+indegree = [0] * (v + 1)
+
+graph = [[] for _ in range(v + 1)]
+
+for _ in range(e):
+    a, b = map(int, input().split())
+    graph[a].append(b)
+
+    # 진입 차수 증가
+    indegree[b] += 1
+
+def topology_sort():
+    result = []
+    queue = deque()
+
+    # 진입 차수가 0인 노드 찾아 큐에 삽입
+    for i in range(1, v + 1):
+        if indegree[i] == 0:
+            queue.append(i)
+
+    while queue:
+        node = queue.popleft()
+        result.append(node)
+
+        # 인접 노드들의 진입 차수 낮추기
+        for i in graph[node]:
+            indegree[i] -= 1
+
+            if indegree[i] == 0:
+                queue.append(i)
+
+    for i in result:
+        print(i, end=" ")
 
 topology_sort()
 
