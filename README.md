@@ -22,6 +22,7 @@
 ---
 
 ## 2. 체크 리스트
+- [이론 정리 문서](https://github.com/seu0313/Algorithm/tree/master/%EC%A4%91%EC%9A%94%20%EC%9D%B4%EB%A1%A0/%EC%9D%B4%EB%A1%A0)
 
 <details>
     <summary><b>1단계</b></summary>
@@ -58,7 +59,7 @@
 - [x] 위상 정렬
 - [x] 최소 신장 트리 (Minimum Spanning Tree)
 - [x] Kruskal
-- [ ] Prim
+- [x] Prim
 - [x] Floyd Warshall
 - [ ] Meet in the Middle
 - [x] Union Find
@@ -69,6 +70,7 @@
 <details>
     <summary><b>3단계</b></summary>
 
+- [x] Bellman Ford
 - [ ] LCA
 - [ ] 단절점, 단절선
 - [ ] Bitmask DP
@@ -78,7 +80,6 @@
 - [ ] 이분 매칭
 - [ ] SCC
 - [ ] 2-SAT
-- [ ] Bellman Ford
 
 </details>
 
@@ -154,6 +155,10 @@
 
 ### 5주차
 * [x] [이론 학습 - Greedy](https://ujink.tistory.com/10)
+* [x] [이론 학습 - Binary Tree]()
+* [x] [이론 학습 - Binary Search Tree]()
+* [x] [이론 학습 - Heap](https://gmlwjd9405.github.io/2018/05/10/data-structure-heap.html)
+* [x] [이론 학습 - Exhaustive Search (완전탐색)]()
 * [x] [프로그래머스 - 조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)
 * [x] [프로그래머스 - 큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)
 * [x] [프로그래머스 - 구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)
@@ -170,6 +175,11 @@
 * [x] [이론 학습 - Graph](https://gmlwjd9405.github.io/2018/08/13/data-structure-graph.html)
 * [x] [이론 학습 - Dijkstra]()
 * [x] [이론 학습 - Floyd Warshall]()
+* [x] [이론 학습 - Bellman Ford]()
+* [x] [이론 학습 - Union Find]()
+* [x] [이론 학습 - Minimum Spanning Tree](https://gmlwjd9405.github.io/2018/08/28/algorithm-mst.html)
+* [x] [이론 학습 - Kruskal](https://gmlwjd9405.github.io/2018/08/29/algorithm-kruskal-mst.html)
+* [x] [이론 학습 - Prim](https://gmlwjd9405.github.io/2018/08/30/algorithm-prim-mst.html)
 * [x] [프로그래머스 - 가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)
 * [ ] [프로그래머스 - 순위](https://programmers.co.kr/learn/courses/30/lessons/49191)
 * [ ] [프로그래머스 - 방의 개수](https://programmers.co.kr/learn/courses/30/lessons/49190)
@@ -183,8 +193,6 @@
     <summary><b>2021년 (예정 목록)</b></summary>
 
 ### 8주차 (`이취코 기출 풀이 시작`)
-* [x] [이론 학습 - Binary Tree]()
-* [x] [이론 학습 - Binary Search Tree]()
 * [ ] [프로그래머스 - 입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238)
 * [ ] [프로그래머스 - 징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236)
 * [ ] [이취코 기출 - 11. 그리디 ()]()
@@ -209,7 +217,6 @@
 * [ ] [이취코 기출 - 12. 구현 ()]()
 
 ### 10주차
-* [x] [이론 학습 - Heap](https://gmlwjd9405.github.io/2018/05/10/data-structure-heap.html)
 * [ ] [프로그래머스 - 더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)
 * [ ] [프로그래머스 - 디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)
 * [ ] [프로그래머스 - 이중 우선순위 큐](https://programmers.co.kr/learn/courses/30/lessons/42628)
@@ -223,7 +230,6 @@
 * [ ] [이취코 기출 - 13. DFS/BFS ()]()
 
 ### 11주차
-* [x] [이론 학습 - Exhaustive Search (완전탐색)]()
 * [ ] [프로그래머스 - 소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)
 * [ ] [프로그래머스 - 카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)
 * [ ] [이론 학습 - Two Point]()
@@ -234,16 +240,13 @@
 * [ ] [이취코 기출 - 14. 정렬 ()]()
 
 ### 12주차
-* [x] [이론 학습 - Minimum Spanning Tree](https://gmlwjd9405.github.io/2018/08/28/algorithm-mst.html)
-* [x] [이론 학습 - Kruskal](https://gmlwjd9405.github.io/2018/08/29/algorithm-kruskal-mst.html)
-* [ ] [이론 학습 - Prim](https://gmlwjd9405.github.io/2018/08/30/algorithm-prim-mst.html)
 * [ ] [이취코 기출 - 15. 이진 탐색 ()]()
 * [ ] [이취코 기출 - 15. 이진 탐색 ()]()
 * [ ] [이취코 기출 - 15. 이진 탐색 ()]()
 * [ ] [이취코 기출 - 15. 이진 탐색 ()]()
 
 ### 13주차
-* [ ] [이론 학습 - Bellman Ford]()
+
 * [ ] [이취코 기출 - 16. DP ()]()
 * [ ] [이취코 기출 - 16. DP ()]()
 * [ ] [이취코 기출 - 16. DP ()]()
@@ -252,7 +255,6 @@
 * [ ] [이취코 기출 - 16. DP ()]()
 
 ### 14주차
-* [x] [이론 학습 - Union Find]()
 * [ ] [이론 학습 - Tree DP]()
 * [ ] [이취코 기출 - 17. 최단 경로 ()]()
 * [ ] [이취코 기출 - 17. 최단 경로 ()]()
