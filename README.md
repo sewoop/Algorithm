@@ -183,7 +183,7 @@
 * [x] [프로그래머스 - 가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)
 * [ ] [프로그래머스 - 순위](https://programmers.co.kr/learn/courses/30/lessons/49191)
 * [ ] [프로그래머스 - 방의 개수](https://programmers.co.kr/learn/courses/30/lessons/49190)
-* [ ] [이취코 - 10. 그래프 이론 (팀 결성)]()
+* [x] [이취코 - 10. 그래프 이론 (팀 결성)]()
 * [ ] [이취코 - 10. 그래프 이론 (도시 분할 계획)]()
 * [ ] [이취코 - 10. 그래프 이론 (커리큘럼)]()
 
