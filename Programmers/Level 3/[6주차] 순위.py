@@ -1,4 +1,6 @@
 from collections import Counter
+
+# Floyd-warshall
 def solution(n, results):
     answer = 0
     matches = [[0] * n for _ in range(n)]
