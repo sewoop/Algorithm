@@ -2,20 +2,7 @@
 
 ![issue badge](https://img.shields.io/badge/Python-3.7.6-blue)
 
-> 알고리즘 백준, 프로그래머스, SW Expert Academy 문제 풀기
-
-- \_\_@\_ii
-
-## 풀이 LINK
-
-|                                                             알고리즘 사이트                                                              |                                풀이 링크                                 |
-| :--------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-| 이론 [[1]](https://book.naver.com/bookdb/book_detail.nhn?bid=16406247) [[2]](https://book.naver.com/bookdb/book_detail.nhn?bid=16439154) | [바로가기](https://github.com/seu0313/Algorithm/tree/master/중요%20이론) |
-|                                                   [백준 BOJ](https://www.acmicpc.net)                                                    |     [바로가기](https://github.com/seu0313/Algorithm/tree/master/BOJ)     |
-|                                        [프로그래머스](https://programmers.co.kr/learn/challenges)                                        | [바로가기](https://github.com/seu0313/Algorithm/tree/master/Programmers) |
-|                                          [삼성 SWEA](https://swexpertacademy.com/main/main.do)                                           |    [바로가기](https://github.com/seu0313/Algorithm/tree/master/SWEA)     |
-
----
+> 알고리즘 백준, 프로그래머스, SWEA 문제 풀기
 
 ## 1. SQL 구문 정리
 
@@ -48,32 +35,32 @@
 <details>
     <summary><b>2단계</b></summary>
 
-- [x] 다익스트라 (Dijkstra)
 - [x] 이진 트리 (Binary Tree)
-- [ ] Parametric Search
 - [x] 이진 검색 트리 (Binary Search Tree)
+- [x] 힙 (Heap)
+- [ ] Parametric Search
 - [ ] 해시 (Hash)
 - [ ] 0-1 BFS
 - [ ] Prefix Sum
-- [x] 힙 (Heap)
 - [ ] 투 포인트
+- [ ] Meet in the Middle
 - [ ] 기초 수학
 - [ ] Trie
 - [x] 위상 정렬
+- [x] 다익스트라 (Dijkstra)
+- [x] Floyd Warshall
+- [x] Bellman Ford
+- [x] Union Find
 - [x] 최소 신장 트리 (Minimum Spanning Tree)
 - [x] Kruskal
 - [x] Prim
-- [x] Floyd Warshall
-- [ ] Meet in the Middle
-- [x] Union Find
 - [ ] Tree DP
 
 </details>
 
 <details>
     <summary><b>3단계</b></summary>
-
-- [x] Bellman Ford
+    
 - [ ] LCA
 - [ ] 단절점, 단절선
 - [ ] Bitmask DP
@@ -176,10 +163,6 @@
 - [x] [이취코 - 9. 최단 경로 (미래 도시)]()
 - [x] [이취코 - 9. 최단 경로 (전보)]()
 
-</details>
-
-> 2021 (진행중)
-
 ### 6주차
 
 - [x] [이론 학습 - Graph](https://gmlwjd9405.github.io/2018/08/13/data-structure-graph.html)
@@ -199,16 +182,19 @@
 
 > [7주차] 이취코 복습 및 덜 푼 문제들 마무리하기
 
-<details>
-    <summary><b>2021년 (예정 목록)</b></summary>
-
 ### 8주차
+
 - [ ] [프로그래머스 - 소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)
 - [ ] [프로그래머스 - 카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)
 - [ ] [프로그래머스 - 입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238)
 - [ ] [프로그래머스 - 징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236)
 
+</details>
+
+> 2021 (진행중)
+
 ### 9주차
+
 - [ ] [이론 학습 - Hash]()
 - [ ] [이론 학습 - Two Point]()
 - [ ] [이론 학습 - Trie]()
@@ -219,7 +205,11 @@
 - [ ] [프로그래머스 - 디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)
 - [ ] [프로그래머스 - 이중 우선순위 큐](https://programmers.co.kr/learn/courses/30/lessons/42628)
 
+<details>
+    <summary><b>2021년 (예정 목록)</b></summary>
+
 ### 10주차 (`이취코 기출 풀이 시작`)
+
 - [ ] [이론 학습 - Bit]()
 - [ ] [이론 학습 - Bitmask]()
 - [ ] [이취코 기출 - 11. 그리디 ()]()
@@ -233,24 +223,23 @@
 - [ ] [이취코 기출 - 12. 구현 ()]()
 - [ ] [이취코 기출 - 12. 구현 ()]()
 
-
-
 ### 11주차
-- [ ] [이취코 기출 - 12. 구현 ()]()
-- [ ] [이취코 기출 - 12. 구현 ()]()
-- [ ] [이취코 기출 - 12. 구현 ()]()
-- [ ] [이취코 기출 - 12. 구현 ()]()
-- [ ] [이취코 기출 - 13. DFS/BFS ()]()
-- [ ] [이취코 기출 - 13. DFS/BFS ()]()
-- [ ] [이취코 기출 - 13. DFS/BFS ()]()
-- [ ] [이취코 기출 - 13. DFS/BFS ()]()
-- [ ] [이취코 기출 - 13. DFS/BFS ()]()
-- [ ] [이취코 기출 - 13. DFS/BFS ()]()
-- [ ] [이취코 기출 - 13. DFS/BFS ()]()
-- [ ] [이취코 기출 - 13. DFS/BFS ()]()
 
+- [ ] [이취코 기출 - 12. 구현 ()]()
+- [ ] [이취코 기출 - 12. 구현 ()]()
+- [ ] [이취코 기출 - 12. 구현 ()]()
+- [ ] [이취코 기출 - 12. 구현 ()]()
+- [ ] [이취코 기출 - 13. DFS/BFS ()]()
+- [ ] [이취코 기출 - 13. DFS/BFS ()]()
+- [ ] [이취코 기출 - 13. DFS/BFS ()]()
+- [ ] [이취코 기출 - 13. DFS/BFS ()]()
+- [ ] [이취코 기출 - 13. DFS/BFS ()]()
+- [ ] [이취코 기출 - 13. DFS/BFS ()]()
+- [ ] [이취코 기출 - 13. DFS/BFS ()]()
+- [ ] [이취코 기출 - 13. DFS/BFS ()]()
 
 ### 12주차
+
 - [ ] [이취코 기출 - 14. 정렬 ()]()
 - [ ] [이취코 기출 - 14. 정렬 ()]()
 - [ ] [이취코 기출 - 14. 정렬 ()]()
@@ -261,6 +250,7 @@
 - [ ] [이취코 기출 - 15. 이진 탐색 ()]()
 
 ### 13주차
+
 - [ ] [이론 학습 - Tree DP]()
 - [ ] [이취코 기출 - 16. DP ()]()
 - [ ] [이취코 기출 - 16. DP ()]()
@@ -270,12 +260,14 @@
 - [ ] [이취코 기출 - 16. DP ()]()
 
 ### 14주차
+
 - [ ] [이취코 기출 - 17. 최단 경로 ()]()
 - [ ] [이취코 기출 - 17. 최단 경로 ()]()
 - [ ] [이취코 기출 - 17. 최단 경로 ()]()
 - [ ] [이취코 기출 - 17. 최단 경로 ()]()
 
 ### 15주차
+
 - [ ] [이취코 기출 - 18. 그래프 ()]()
 - [ ] [이취코 기출 - 18. 그래프 ()]()
 - [ ] [이취코 기출 - 18. 그래프 ()]()
@@ -283,6 +275,7 @@
 - [ ] [이취코 기출 - 18. 그래프 ()]()
 
 ### 16주차 `이후..`
+
 - [ ] [이취코 기출 - 19. 2020 상반기 삼성전자 ()]()
 - [ ] [이취코 기출 - 19. 2020 상반기 삼성전자 ()]()
 - [ ] [이취코 기출 - 19. 2020 상반기 삼성전자 ()]()
