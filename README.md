@@ -184,7 +184,7 @@
 
 ### 8주차
 
-- [ ] [프로그래머스 - 소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)
+- [x] [프로그래머스 - 소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)
 - [ ] [프로그래머스 - 카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)
 - [ ] [프로그래머스 - 입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238)
 - [ ] [프로그래머스 - 징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236)
