@@ -140,7 +140,7 @@
 
 - [x] [이론 학습 - Dynamic Programming](https://galid1.tistory.com/507)
 - [x] [프로그래머스 - N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)
-- [ ] [프로그래머스 - 정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105)
+- [x] [프로그래머스 - 정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105)
 - [ ] [프로그래머스 - 등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898)
 - [ ] [프로그래머스 - 도둑질](https://programmers.co.kr/learn/courses/30/lessons/42897)
 - [x] [이취코 - 8. DP (1로 만들기)]()
