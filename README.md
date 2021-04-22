@@ -200,7 +200,7 @@
 - [x] [이론 학습 - Trie]()
 - [x] [프로그래머스 - 전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)
 - [x] [프로그래머스 - 위장](https://programmers.co.kr/learn/courses/30/lessons/42578)
-- [ ] [프로그래머스 - 베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)
+- [x] [프로그래머스 - 베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)
 - [ ] [프로그래머스 - 더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)
 - [ ] [프로그래머스 - 디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)
 - [ ] [프로그래머스 - 이중 우선순위 큐](https://programmers.co.kr/learn/courses/30/lessons/42628)
