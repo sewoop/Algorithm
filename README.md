@@ -2,20 +2,18 @@
 
 ![issue badge](https://img.shields.io/badge/Python-3.7.6-blue)
 
-> 알고리즘 백준, 프로그래머스, SWEA 문제 풀기
+> 백준, 프로그래머스, SWEA 문제 풀이 저장소
 
-## 1. SQL 구문 정리
-
-- [SQL 구문 정리한 문서](https://github.com/seu0313/Algorithm/tree/master/중요%20이론/SQL)
-
----
-
-## 2. 체크 리스트
+### 이론 정리
 
 - [이론 정리 문서](https://github.com/seu0313/Algorithm/tree/master/%EC%A4%91%EC%9A%94%20%EC%9D%B4%EB%A1%A0/%EC%9D%B4%EB%A1%A0)
 
+- [SQL 구문 정리한 문서](https://github.com/seu0313/Algorithm/tree/master/중요%20이론/SQL)
+
+### 단계별 체크리스트
+
 <details>
-    <summary><b>1단계</b></summary>
+    <summary>1단계</summary>
 
 - [x] 배열 (Array)
 - [x] 연결 리스트 (Linked List)
@@ -33,7 +31,7 @@
 </details>
 
 <details>
-    <summary><b>2단계</b></summary>
+    <summary>2단계</summary>
 
 - [x] 이진 트리 (Binary Tree)
 - [x] 이진 검색 트리 (Binary Search Tree)
@@ -59,7 +57,7 @@
 </details>
 
 <details>
-    <summary><b>3단계</b></summary>
+    <summary>3단계</summary>
     
 - [ ] LCA
 - [ ] 단절점, 단절선
@@ -74,7 +72,7 @@
 </details>
 
 <details>
-    <summary><b>4단계</b></summary>
+    <summary>4단계</summary>
 
 - [ ] 라빈 카프
 - [ ] 정수론
@@ -89,9 +87,7 @@
 
 </details>
 
----
-
-## 3. 주차 별 풀이
+### 주차 별 풀이
 
 <details>
     <summary><b>2021년 (완료 목록)</b></summary>
@@ -193,7 +189,7 @@
 
 </details>
 
-> 2021 (진행중)
+> ⬇️ 2021 (진행중)
 
 ### 9주차
 
