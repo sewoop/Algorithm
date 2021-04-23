@@ -5,11 +5,11 @@ def solution(jobs):
     heap = []
 
     while i < len(jobs):
-        for j in jobs:
-            if j[0] in range(start + 1, now + 1):
-                heapq.heappush(heap, (j[1], j[0]))
+        for job in jobs:
+            if job[0] in range(start + 1, now + 1):
+                heapq.heappush(heap, (job[1], job[0]))
             
-        if len(heap) > 0:
+        if heap:
             curr = heapq.heappop(heap)
             start = now
             now += curr[0]
