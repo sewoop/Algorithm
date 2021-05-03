@@ -187,10 +187,6 @@
 - [ ] [프로그래머스 - 입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238)
 - [ ] [프로그래머스 - 징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236)
 
-</details>
-
-> ⬇️ 2021 (진행중)
-
 ### 9주차
 
 - [ ] [이론 학습 - Hash]()
@@ -203,16 +199,44 @@
 - [x] [프로그래머스 - 디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)
 - [ ] [프로그래머스 - 이중 우선순위 큐](https://programmers.co.kr/learn/courses/30/lessons/42628)
 
+</details>
+
+> ⬇️ 2021 (진행중)
+
+### 알고리즘 종류별 집중 훈련
+
+- [ ] [백준 - 구현](https://www.acmicpc.net/problemset?sort=ac_desc&algo=102)
+- [ ] [백준 - 그리디](https://www.acmicpc.net/problemset?sort=ac_desc&algo=33)
+- [ ] [백준 - DP](https://www.acmicpc.net/problemset?sort=ac_desc&algo=25)
+- [ ] [백준 - 그래프 이론](https://www.acmicpc.net/problemset?sort=ac_desc&algo=7)
+- [ ] [백준 - 그래프 탐색](https://www.acmicpc.net/problemset?sort=ac_desc&algo=11)
+- [ ] [백준 - 자료구조](https://www.acmicpc.net/problemset?sort=ac_desc&algo=175)
+- [ ] [백준 - 완전탐색](https://www.acmicpc.net/problemset?sort=ac_desc&algo=125)
+- [ ] [백준 - 트리](https://www.acmicpc.net/problemset?sort=ac_desc&algo=120)
+- [ ] [백준 - 정렬](https://www.acmicpc.net/problemset?sort=ac_desc&algo=97)
+- [ ] [백준 - 이분탐색](https://www.acmicpc.net/problemset?sort=ac_desc&algo=12)
+- [ ] [백준 - 조합론](https://www.acmicpc.net/problemset?sort=ac_desc&algo=6)
+- [ ] [백준 - BFS](https://www.acmicpc.net/problemset?sort=ac_desc&algo=126)
+- [ ] [백준 - DFS](https://www.acmicpc.net/problemset?sort=ac_desc&algo=127)
+- [ ] [백준 - 시뮬레이션](https://www.acmicpc.net/problemset?sort=ac_desc&algo=141)
+- [ ] [백준 - 다익스트라](https://www.acmicpc.net/problemset?sort=ac_desc&algo=22)
+- [ ] [백준 - 비트마스킹](https://www.acmicpc.net/problemset?sort=ac_desc&algo=14)
+- [ ] [백준 - 분할정복](https://www.acmicpc.net/problemset?sort=ac_desc&algo=24)
+- [ ] [백준 - 백트래킹](https://www.acmicpc.net/problemset?sort=ac_desc&algo=5)
+- [ ] [백준 - 투 포인터](https://www.acmicpc.net/problemset?sort=ac_desc&algo=80)
+- [ ] [백준 - 우선순위 큐](https://www.acmicpc.net/problemset?sort=ac_desc&algo=59)
+- [ ] [백준 - MST](https://www.acmicpc.net/problemset?sort=ac_desc&algo=49)
+- [ ] [백준 - 해싱](https://www.acmicpc.net/problemset?sort=ac_desc&algo=8)
+- [ ] [백준 - 플로이드 워셜](https://www.acmicpc.net/problemset?sort=ac_desc&algo=31)
+- [ ] [백준 - 위상정렬](https://www.acmicpc.net/problemset?sort=ac_desc&algo=78)
+- [ ] [백준 - 트라이](https://www.acmicpc.net/problemset?sort=ac_desc&algo=79)
+- [ ] [백준 - 배낭문제](https://www.acmicpc.net/problemset?sort=ac_desc&algo=148)
+- [ ] [백준 - 정규표현식](https://www.acmicpc.net/problemset?sort=ac_desc&algo=63)
+
 <details>
     <summary><b>2021년 (예정 목록)</b></summary>
 
-### 완전 탐색, 동적 계획법, 구현, 그리디 집중 훈련
-
-> 최근 코테에서 구현을 요구하는 문제가 많이 출제되고 있으므로 백준으로 집중 훈련
-
-- [ ] [백준 - ]()
-
-### 10주차 (`이취코 기출 풀이 시작`)
+### ? 주차 (`이취코 기출 풀이 시작`)
 
 - [ ] [이론 학습 - Bit]()
 - [ ] [이론 학습 - Bitmask]()
@@ -227,7 +251,7 @@
 - [ ] [이취코 기출 - 12. 구현 ()]()
 - [ ] [이취코 기출 - 12. 구현 ()]()
 
-### 11주차
+### ? 주차
 
 - [ ] [이취코 기출 - 12. 구현 ()]()
 - [ ] [이취코 기출 - 12. 구현 ()]()
@@ -242,7 +266,7 @@
 - [ ] [이취코 기출 - 13. DFS/BFS ()]()
 - [ ] [이취코 기출 - 13. DFS/BFS ()]()
 
-### 12주차
+### ? 주차
 
 - [ ] [이취코 기출 - 14. 정렬 ()]()
 - [ ] [이취코 기출 - 14. 정렬 ()]()
@@ -253,7 +277,7 @@
 - [ ] [이취코 기출 - 15. 이진 탐색 ()]()
 - [ ] [이취코 기출 - 15. 이진 탐색 ()]()
 
-### 13주차
+### ? 주차
 
 - [ ] [이론 학습 - Tree DP]()
 - [ ] [이취코 기출 - 16. DP ()]()
@@ -263,14 +287,14 @@
 - [ ] [이취코 기출 - 16. DP ()]()
 - [ ] [이취코 기출 - 16. DP ()]()
 
-### 14주차
+### ? 주차
 
 - [ ] [이취코 기출 - 17. 최단 경로 ()]()
 - [ ] [이취코 기출 - 17. 최단 경로 ()]()
 - [ ] [이취코 기출 - 17. 최단 경로 ()]()
 - [ ] [이취코 기출 - 17. 최단 경로 ()]()
 
-### 15주차
+### ? 주차
 
 - [ ] [이취코 기출 - 18. 그래프 ()]()
 - [ ] [이취코 기출 - 18. 그래프 ()]()
@@ -278,7 +302,7 @@
 - [ ] [이취코 기출 - 18. 그래프 ()]()
 - [ ] [이취코 기출 - 18. 그래프 ()]()
 
-### 16주차 `이후..`
+### ? 주차 `이후..`
 
 - [ ] [이취코 기출 - 19. 2020 상반기 삼성전자 ()]()
 - [ ] [이취코 기출 - 19. 2020 상반기 삼성전자 ()]()
