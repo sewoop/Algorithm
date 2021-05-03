@@ -6,9 +6,9 @@
 
 ## 이론 정리
 
-- [이론 정리 문서](https://github.com/seu0313/Algorithm/tree/master/%EC%A4%91%EC%9A%94%20%EC%9D%B4%EB%A1%A0/%EC%9D%B4%EB%A1%A0)
+- [이론 정리 문서](https://github.com/seu0313/Algorithm/tree/master/%EC%9D%B4%EB%A1%A0/%EC%9D%B4%EB%A1%A0)
 
-- [SQL 구문 정리한 문서](https://github.com/seu0313/Algorithm/tree/master/중요%20이론/SQL)
+- [SQL 구문 정리한 문서](https://github.com/seu0313/Algorithm/tree/master/%EC%9D%B4%EB%A1%A0/SQL)
 
 ## 단계별 체크리스트
 
