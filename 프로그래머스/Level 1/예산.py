@@ -1,3 +1,4 @@
+# 2018 Summer & Winter Coding
 def solution(d, budget):
     sum_ = 0
     for i,v in enumerate(sorted(d)):
