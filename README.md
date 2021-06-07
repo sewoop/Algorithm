@@ -36,15 +36,9 @@
 - [x] 이진 트리 (Binary Tree)
 - [x] 이진 검색 트리 (Binary Search Tree)
 - [x] 힙 (Heap)
-- [ ] Parametric Search
-- [ ] 해시 (Hash)
-- [ ] 0-1 BFS
-- [ ] Prefix Sum
-- [ ] 투 포인트
-- [ ] Meet in the Middle
-- [ ] 기초 수학
+- [x] 해시 (Hash)
 - [x] Trie
-- [x] 위상 정렬
+- [x] 위상 정렬 (Topology Sort)
 - [x] 다익스트라 (Dijkstra)
 - [x] Floyd Warshall
 - [x] Bellman Ford
@@ -52,6 +46,12 @@
 - [x] 최소 신장 트리 (Minimum Spanning Tree)
 - [x] Kruskal
 - [x] Prim
+- [ ] Parametric Search
+- [ ] 0-1 BFS
+- [ ] Prefix Sum
+- [ ] 투 포인트
+- [ ] Meet in the Middle
+- [ ] 기초 수학
 - [ ] Tree DP
 
 </details>
