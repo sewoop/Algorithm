@@ -52,35 +52,35 @@
 |17072|[아스키 아트](https://www.acmicpc.net/problem/17072)|📅|
 |16675|[두 개의 손](https://www.acmicpc.net/problem/16675)|📅|
 |---|---|---|
-|16165|[걸그룹 마스터 준석이](https://www.acmicpc.net/problem/16165)||
-|17293|[맥주 99병](https://www.acmicpc.net/problem/17293)||
-|10539|[수빈이와 수열](https://www.acmicpc.net/problem/10539)||
-|17389|[보너스 점수](https://www.acmicpc.net/problem/17389)||
-|1439|[뒤집기](https://www.acmicpc.net/problem/1439)||
+|16165|[걸그룹 마스터 준석이](https://www.acmicpc.net/problem/16165)|📅|
+|17293|[맥주 99병](https://www.acmicpc.net/problem/17293)|📅|
+|10539|[수빈이와 수열](https://www.acmicpc.net/problem/10539)|📅|
+|17389|[보너스 점수](https://www.acmicpc.net/problem/17389)|📅|
+|1439|[뒤집기](https://www.acmicpc.net/problem/1439)|📅|
 |---|---|---|
-|5052|[전화번호 목록](https://www.acmicpc.net/problem/5052)||
-|10828|[스택](https://www.acmicpc.net/problem/10828)||
-|10845|[큐](https://www.acmicpc.net/problem/10845)||
-|1927|[최소 힙](https://www.acmicpc.net/problem/1927)||
-|9012|[괄호](https://www.acmicpc.net/problem/9012)||
+|5052|[전화번호 목록](https://www.acmicpc.net/problem/5052)|📅|
+|10828|[스택](https://www.acmicpc.net/problem/10828)|✔️|
+|10845|[큐](https://www.acmicpc.net/problem/10845)|✔️|
+|1927|[최소 힙](https://www.acmicpc.net/problem/1927)|📅|
+|9012|[괄호](https://www.acmicpc.net/problem/9012)|✔️|
 |---|---|---|
-|10799|[쇠막대기](https://www.acmicpc.net/problem/10799)||
-|2493|[탑](https://www.acmicpc.net/problem/2493)||
-|1966|[프린터 큐](https://www.acmicpc.net/problem/1966)||
-|11279|[최대 힙](https://www.acmicpc.net/problem/11279)||
-|1439|[가장 긴 문자열](https://www.acmicpc.net/problem/1439)||
+|10799|[쇠막대기](https://www.acmicpc.net/problem/10799)|📅|
+|2493|[탑](https://www.acmicpc.net/problem/2493)|📅|
+|1966|[프린터 큐](https://www.acmicpc.net/problem/1966)|✔️|
+|11279|[최대 힙](https://www.acmicpc.net/problem/11279)|📅|
+|1439|[가장 긴 문자열](https://www.acmicpc.net/problem/1439)|📅|
 |---|---|---|
-|1766|[문제집](https://www.acmicpc.net/problem/1766)||
-|1012|[유기농 배추](https://www.acmicpc.net/problem/1012)||
-|1260|[DFS와 BFS](https://www.acmicpc.net/problem/1260)||
-|2178|[미로 탐색](https://www.acmicpc.net/problem/2178)||
-|2606|[바이러스](https://www.acmicpc.net/problem/2606)||
+|1766|[문제집](https://www.acmicpc.net/problem/1766)|📅|
+|1012|[유기농 배추](https://www.acmicpc.net/problem/1012)|✔️|
+|1260|[DFS와 BFS](https://www.acmicpc.net/problem/1260)|✔️|
+|2178|[미로 탐색](https://www.acmicpc.net/problem/2178)|✔️|
+|2606|[바이러스](https://www.acmicpc.net/problem/2606)|✔️|
 |---|---|---|
-|2667|[단지번호 붙이기](https://www.acmicpc.net/problem/2667)||
-|14503|[로봇 청소기](https://www.acmicpc.net/problem/14503)||
-|14620|[꽃길](https://www.acmicpc.net/problem/14620)||
-|1966|[늑대와 양](https://www.acmicpc.net/problem/1966)||
-|11279|[최대 힙](https://www.acmicpc.net/problem/11279)||
+|2667|[단지번호 붙이기](https://www.acmicpc.net/problem/2667)|✔️|
+|14503|[로봇 청소기](https://www.acmicpc.net/problem/14503)|📅|
+|14620|[꽃길](https://www.acmicpc.net/problem/14620)|📅|
+|19956|[늑대와 양](https://www.acmicpc.net/problem/16956)|📅|
+|11279|[최대 힙](https://www.acmicpc.net/problem/11279)|📅|
 |---|---|---|
 |11726|[2×n 타일링](https://www.acmicpc.net/problem/11726)||
 |1149|[RGB거리](https://www.acmicpc.net/problem/1149)||
