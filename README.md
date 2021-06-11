@@ -6,6 +6,8 @@
 
 ## 1. 이론 정리
 
+> `티스토리`로 이관 중..
+
 - [이론 정리 문서](https://seu0313.tistory.com/category/Algorithm/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%20%26%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B4%EB%A1%A0)
 - [SQL 구문 정리한 문서](https://github.com/seu0313/Algorithm/tree/master/%EC%9D%B4%EB%A1%A0/SQL)
 - [참고](https://gmlwjd9405.github.io/2017/10/01/basic-concepts-of-development-algorithm.html)
@@ -42,7 +44,7 @@
 
 - **Last modified** :  `2021.06.11`
 
-|문제 번호|문제 이름|체크 (📅, ✔️|
+|문제 번호|문제 이름|체크 (📅, ✔️)|
 |:---:|:---:|:---:|
 |16676|[근우의 다이어리 꾸미기](https://www.acmicpc.net/problem/16676)|📅|
 |15953|[상금 헌터](https://www.acmicpc.net/problem/15953)|📅|
