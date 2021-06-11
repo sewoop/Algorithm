@@ -31,7 +31,7 @@
 |[라빈 카프]()|[정수론]()|[DP 최적화]()|[아호 코라식]()|
 |[HLD]()|[Centroid]()|[Sqrt Decomposition]()|[Hungarian]()|
 
-## 문제 모음
+## 주차 별 풀이`Deprecated`
 
 <details>
 <summary>주차 별 풀이</summary>
