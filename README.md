@@ -1,6 +1,9 @@
 # Algorithm
 
-![issue badge](https://img.shields.io/badge/Python-3.7.6-blue)
+<p>
+    <img alt="python" src="https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white"/>
+    <img alt="swift" src="https://img.shields.io/badge/-Swift-orange?logo=swift&logoColor=white"/>
+</p>
 
 > 백준, 프로그래머스, SWEA 문제 풀이 저장소
 
