@@ -37,12 +37,13 @@
 ---
 
 ## 3. 문제 모음집
+
+> Github의 백준, SWEA 알고리즘 문제들을 하나로 모음 `중복된 것이 있을 수 있으며 계속 업데이트`
+
+- **Last modified** :  `2021.06.12`
+
 <details open>
-<summary><b>백준 문제집</b></summary>
-
-> Github의 백준 알고리즘 문제들을 하나로 모음 `중복된 것이 있을 수 있으며 계속 업데이트`
-
-- **Last modified** :  `2021.06.11`
+<summary><b>백준 문제집 I</b></summary>
 
 |문제 번호|문제 이름|체크 (📅, ✔️)|
 |:---:|:---:|:---:|
@@ -351,7 +352,224 @@
 |2650|[교차점개수](https://www.acmicpc.net/problem/2650)||
 |2669|[직사각형 네개의 합집합의 면적 구하기](https://www.acmicpc.net/problem/2669)||
 |2658|[직각 이등변 삼각형 찾기](https://www.acmicpc.net/problem/2658)||
+</details>
+
+<details>
+<summary><b>백준 문제집 II</b></summary>
+
+|문제 번호|문제 이름|체크 (📅, ✔️)|
+|:---:|:---:|:---:|
+|4485|[녹색입은 애가 젤다지](https://www.acmicpc.net/problem/4485)||
+|18513|[샘터](https://www.acmicpc.net/problem/18513)||
+|19238|[스타트 택시](https://www.acmicpc.net/problem/19238)||
+|19237|[어른 상어](https://www.acmicpc.net/problem/19237)||
+|13460|[구슬 탈출 2](https://www.acmicpc.net/problem/13460)||
 |---|---|---|
+|19236|[청소년 상어](https://www.acmicpc.net/problem/19236)||
+|12100|[2048(Easy)](https://www.acmicpc.net/problem/12100)||
+|3190|[뱀](https://www.acmicpc.net/problem/3190)||
+|14890|[경사로](https://www.acmicpc.net/problem/14890)||
+|13458|[시험 감독](https://www.acmicpc.net/problem/13458)||
+|---|---|---|
+|14499|[주사위 굴리기](https://www.acmicpc.net/problem/14499)||
+|5373|[큐빙](https://www.acmicpc.net/problem/5373)||
+|14719|[빗물](https://www.acmicpc.net/problem/14719)||
+|1440|[타임머신](https://www.acmicpc.net/problem/1440)||
+|4386|[별자리 만들기](https://www.acmicpc.net/problem/4386)||
+|---|---|---|
+|1504|[특정한 최단 경우](https://www.acmicpc.net/problem/1504)||
+|11559|[Puyo Puyo](https://www.acmicpc.net/problem/11559)||
+|7562|[나이트의 이동](https://www.acmicpc.net/problem/7562)||
+|1922|[네트워크 연결](https://www.acmicpc.net/problem/1922)||
+|4179|[불!](https://www.acmicpc.net/problem/4179)||
+|---|---|---|
+|10026|[적록색약](https://www.acmicpc.net/problem/10026)||
+|12846|[무서운 아르바이트](https://www.acmicpc.net/problem/12846)||
+|2533|[SNS](https://www.acmicpc.net/problem/2533)||
+|1516|[게임 개발](https://www.acmicpc.net/problem/1516)||
+|2841|[외계인의 기타연주](https://www.acmicpc.net/problem/2841)||
+|---|---|---|
+|1022|[소용돌이 예쁘게 출력하기](https://www.acmicpc.net/problem/1022)||
+|1713|[후보 추천하기](https://www.acmicpc.net/problem/1713)||
+|8972|[미친 아두이노](https://www.acmicpc.net/problem/8972)||
+|1976|[여행 가자](https://www.acmicpc.net/problem/1976)||
+|5052|[전화번호 목록](https://www.acmicpc.net/problem/5052)||
+|---|---|---|
+|1715|[카드 정렬하기](https://www.acmicpc.net/problem/1715)||
+|1202|[보석 도둑](https://www.acmicpc.net/problem/1202)||
+|4195|[친구 네트워크](https://www.acmicpc.net/problem/4195)||
+|9935|[문자열 폭발](https://www.acmicpc.net/problem/9935)||
+|5676|[음주 코딩](https://www.acmicpc.net/problem/5676)||
+|---|---|---|
+|2014|[소수의 곱](https://www.acmicpc.net/problem/2014)||
+|17298|[오큰수](https://www.acmicpc.net/problem/17298)||
+|1038|[감소하는 수](https://www.acmicpc.net/problem/1038)||
+|6198|[옥상 정원 꾸미기](https://www.acmicpc.net/problem/6198)||
+|17299|[오등큰수](https://www.acmicpc.net/problem/17299)||
+|---|---|---|
+|2800|[괄호 제거](https://www.acmicpc.net/problem/2800)||
+|11000|[강의실 배정](https://www.acmicpc.net/problem/11000)||
+|17136|[색종이 붙이기](https://www.acmicpc.net/problem/17136)||
+|1717|[집합의 표현](https://www.acmicpc.net/problem/1717)||
+|17281|[⚾](https://www.acmicpc.net/problem/17281)||
+|---|---|---|
+|1826|[연료 채우기](https://www.acmicpc.net/problem/1826)||
+|6087|[레이저 통신](https://www.acmicpc.net/problem/6087)||
+|19640|[화장실의 규칙](https://www.acmicpc.net/problem/19640)||
+|3954|[Brainf\*\*k 인터프리터](https://www.acmicpc.net/problem/3954)||
+|17406|[배열 돌리기 4](https://www.acmicpc.net/problem/17406)||
+|---|---|---|
+|1662|[압축](https://www.acmicpc.net/problem/1662)||
+|17471|[게리맨더링](https://www.acmicpc.net/problem/17471)||
+|1781|[컵라면](https://www.acmicpc.net/problem/1781)||
+|7662|[이중 우선순위 큐](https://www.acmicpc.net/problem/7662)||
+|2812|[크게 만들기](https://www.acmicpc.net/problem/2812)||
+|---|---|---|
+|17472|[다리 만들기 2](https://www.acmicpc.net/problem/17472)||
+|12764|[싸지방에 간 준하](https://www.acmicpc.net/problem/12764)||
+|10216|[Count Circle Groups](https://www.acmicpc.net/problem/10216)||
+|1477|[휴게소 세우기](https://www.acmicpc.net/problem/1477)||
+|1700|[멀티탭 스케줄링](https://www.acmicpc.net/problem/1700)||
+|---|---|---|
+|2212|[센서](https://www.acmicpc.net/problem/2212)||
+|2573|[빙산](https://www.acmicpc.net/problem/2573)||
+|12865|[평범한 배낭](https://www.acmicpc.net/problem/12865)||
+|2513|[통학버스](https://www.acmicpc.net/problem/2513)||
+|5014|[스타트링크](https://www.acmicpc.net/problem/5014)||
+|---|---|---|
+|2660|[회장뽑기](https://www.acmicpc.net/problem/2660)||
+|2636|[치즈](https://www.acmicpc.net/problem/2636)||
+|1799|[비숍](https://www.acmicpc.net/problem/1799)||
+|13908|[비밀번호](https://www.acmicpc.net/problem/13908)||
+|2174|[로봇 시뮬레이션](https://www.acmicpc.net/problem/2174)||
+|10836|[여왕벌](https://www.acmicpc.net/problem/10836)||
+</details>
+
+<details>
+<summary><b>백준 문제집 III</b></summary>
+
+|문제 번호|문제 이름|체크 (📅, ✔️)|
+|:---:|:---:|:---:|
+|2501|[🥉 약수 구하기](https://www.acmicpc.net/problem/2501)||
+|3460|[🥉 이진수](https://www.acmicpc.net/problem/3460)||
+|10818|[🥉 최소, 최대](https://www.acmicpc.net/problem/10818)||
+|2460|[🥉 지능형 기차 2](https://www.acmicpc.net/problem/2460)||
+|10870|[🥉 피보나치 수 5](https://www.acmicpc.net/problem/10870)||
+|2309|[🥉 일곱 난쟁이](https://www.acmicpc.net/problem/2309)||
+|2609|[🥈 최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)||
+|2693|[🥈 N번째 큰 수](https://www.acmicpc.net/problem/2693)||
+|1978|[🥈 소수 찾기](https://www.acmicpc.net/problem/1978)||
+|1292|[🥈 쉽게 푸는 문제](https://www.acmicpc.net/problem/1292)||
+|2581|[🥈 소수](https://www.acmicpc.net/problem/2581)||
+|---|---|---|
+|14888|[🥈 연산자 끼워넣기](https://www.acmicpc.net/problem/14888)||
+|2504|[🥈 괄호의 값](https://www.acmicpc.net/problem/2504)||
+|14719|[🥇 빗물](https://www.acmicpc.net/problem/14719)||
+|1062|[🥇 가르침](https://www.acmicpc.net/problem/1062)||
+|1700|[🥇 멀티탭 스케줄링](https://www.acmicpc.net/problem/1700)||
+|1806|[🥇 부분합](https://www.acmicpc.net/problem/1806)||
+|1916|[🥇 최소비용 구하기](https://www.acmicpc.net/problem/1916)||
+|1197|[🥇 최소 스패닝 트리](https://www.acmicpc.net/problem/1197)||
+|16916|[🥇 부분 문자열](https://www.acmicpc.net/problem/16916)||
+|2252|[🥇 줄 세우기](https://www.acmicpc.net/problem/2252)||
+|---|---|---|
+|3085|[🥈 수들의 합](https://www.acmicpc.net/problem/3085)||
+|1062|[🥈 사탕 게임](https://www.acmicpc.net/problem/1062)||
+|2293|[🥈 동전 1](https://www.acmicpc.net/problem/2293)||
+|2294|[🥈 동전 2](https://www.acmicpc.net/problem/2294)||
+|2667|[🥈 단지번호붙이기](https://www.acmicpc.net/problem/2667)||
+|1038|[🥇 감소하는 수](https://www.acmicpc.net/problem/1038)||
+|1062|[🥇 가르침](https://www.acmicpc.net/problem/1062)||
+|17070|[🥇 파이프 옮기기 1](https://www.acmicpc.net/problem/17070)||
+|---|---|---|
+|1260|[🥈 DFS와 BFS](https://www.acmicpc.net/problem/1260)||
+|1303|[🥈 전투](https://www.acmicpc.net/problem/1303)||
+|2178|[🥈 미로 탐색](https://www.acmicpc.net/problem/2178)||
+|1743|[🥈 음식물 피하기](https://www.acmicpc.net/problem/1743)||
+|2606|[🥈 바이러스](https://www.acmicpc.net/problem/2606)||
+|16953|[🥇 A → B](https://www.acmicpc.net/problem/16953)||
+|12851|[🥇 숨바꼭질 2](https://www.acmicpc.net/problem/12851)||
+|13549|[🥇 숨바꼭질 3](https://www.acmicpc.net/problem/13549)||
+|13913|[🥇 숨바꼭질 4](https://www.acmicpc.net/problem/13913)||
+|14226|[🥇 이모티콘](https://www.acmicpc.net/problem/14226)||
+|17086|[🥇 아기 상어2](https://www.acmicpc.net/problem/17086)||
+|16930|[🏅 달리기](https://www.acmicpc.net/problem/16930)||
+|---|---|---|
+|15486|[🥈 퇴사 2](https://www.acmicpc.net/problem/15486)||
+|1890|[🥈 점프](https://www.acmicpc.net/problem/1890)||
+|15989|[🥈 1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989)||
+|1495|[🥈 기타리스트](https://www.acmicpc.net/problem/1495)||
+|11058|[🥈 크리보드](https://www.acmicpc.net/problem/11058)||
+|12026|[🥈 BOJ 거리](https://www.acmicpc.net/problem/12026)||
+|12865|[🥇 평범한 배낭](https://www.acmicpc.net/problem/12865)||
+|5557|[🥇 1학년](https://www.acmicpc.net/problem/5557)||
+|2281|[🥇 데스노트](https://www.acmicpc.net/problem/2281)||
+|2616|[🥇 소형기관차](https://www.acmicpc.net/problem/2616)||
+|10422|[🥇 괄호](https://www.acmicpc.net/problem/10422)||
+|12869|[🥇 뮤탈리스크](https://www.acmicpc.net/problem/12869)||
+|11049|[🥇 행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)||
+|12996|[🥇 Acka](https://www.acmicpc.net/problem/12996)||
+|14238|[🥇 출근 기록](https://www.acmicpc.net/problem/14238)||
+|11066|[🥇 파일 합치기](https://www.acmicpc.net/problem/11066)||
+|10942|[🥇 팰린드롬?](https://www.acmicpc.net/problem/10942)||
+|12969|[🥇 ABC](https://www.acmicpc.net/problem/12969)||
+|---|---|---|
+|2023|[🥇 신기한 소수](https://www.acmicpc.net/problem/2023)||
+|16197|[🥇 두 동전](https://www.acmicpc.net/problem/16197)||
+|9470|[🥇 Strahler 순서](https://www.acmicpc.net/problem/9470)||
+|1005|[🥇 ACM Craft](https://www.acmicpc.net/problem/1005)||
+|2533|[🥇 사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533)||
+|2176|[🥇 합리적인 이동경로](https://www.acmicpc.net/problem/2176)||
+|1949|[🥇 우수 마을](https://www.acmicpc.net/problem/1949)||
+|---|---|---|
+|3568|[🥈 iSharp](https://www.acmicpc.net/problem/3568)||
+|16506|[🥈 CPU](https://www.acmicpc.net/problem/16506)||
+|2290|[🥈 LCD Test](https://www.acmicpc.net/problem/2290)||
+|16113|[🥈 시그널](https://www.acmicpc.net/problem/16113)||
+|6987|[🥈 월드컵](https://www.acmicpc.net/problem/6987)||
+|8911|[🥈 거북이](https://www.acmicpc.net/problem/8911)||
+|11559|[🥇 Puyo Puyo](https://www.acmicpc.net/problem/11559)||
+|2933|[🥇 미네랄](https://www.acmicpc.net/problem/2933)||
+|3197|[🥇 백조의 호수](https://www.acmicpc.net/problem/3197)||
+|1194|[🥇 달이 차오른다, 가자.](https://www.acmicpc.net/problem/1194)||
+|15898|[🥇 피아의 아틀리에 신비한 대회의 연금술사](https://www.acmicpc.net/problem/15898)||
+|15778|[🏅 Yut Nori](https://www.acmicpc.net/problem/15778)||
+|---|---|---|
+|1141|[🥈 접두사](https://www.acmicpc.net/problem/1141)||
+|9935|[🥇 문자열 폭발](https://www.acmicpc.net/problem/9935)||
+|12100|[🥇 2048 (Easy)](https://www.acmicpc.net/problem/12100)||
+|7579|[🥇 앱](https://www.acmicpc.net/problem/7579)||
+
+</details>
+
+<details>
+<summary><b>SWEA 문제집</b></summary>
+
+|문제 번호|문제 이름|체크 (📅, ✔️)|
+|:---:|:---:|:---:|
+|1949|[등산로 조성](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PoOKKAPIDFAUq)||
+|1953|[탈주범 검거](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq)||
+|2105|[디저트 카페](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu)||
+|2112|[보호 필름](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V1SYKAaUDFAWu)||
+|2117|[홈 방범 서비스](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu)||
+|2382|[미생물 격리](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV597vbqAH0DFAVl)||
+|2383|[점심 식사시간](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5-BEE6AK0DFAVl)||
+|4013|[특이한 자석](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeV9sKkcoDFAVH)||
+|4014|[활주로 건설](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeW7FakkUDFAVH)||
+|5644|[무선 충전](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo)||
+|5648|[원자 소멸 시뮬레이션](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRFInKex8DFAUo)||
+|5650|[핀볼 게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRF8s6ezEDFAUo)||
+|5653|[줄기세포배양](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRJ8EKe48DFAUo)||
+|5656|[벽돌 깨기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo)||
+|5658|[보물상자 비밀번호](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRUN9KfZ8DFAUo)||
+|6808|[규영이와 인영이의 카드게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWgv9va6HnkDFAW0&categoryId=AWgv9va6HnkDFAW0&categoryType=CODE&&&)||
+|2112|[보호 필름](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V1SYKAaUDFAWu&categoryId=AV5V1SYKAaUDFAWu&categoryType=CODE)||
+|3349|[최솟값으로 이동하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWDTN0cKr1oDFAWD&categoryId=AWDTN0cKr1oDFAWD&categoryType=CODE)||
+|2117|[홈 방범 서비스](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu&categoryId=AV5V61LqAf8DFAWu&categoryType=CODE)||
+|2382|[미생물 격리](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV597vbqAH0DFAVl)||
+|2477|[차량 정비소](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV6c6bgaIuoDFAXy&categoryId=AV6c6bgaIuoDFAXy&categoryType=CODE&problemTitle=2477&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)||
+|2105|[디저트 카페](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu)||
+
 
 </details>
 
