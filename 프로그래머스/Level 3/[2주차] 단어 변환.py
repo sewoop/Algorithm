@@ -5,6 +5,7 @@ def diff_check(begin, word):
             diff += 1
     return diff
 
+
 def solution(begin, target, words):
     answer = 0
 
@@ -21,9 +22,9 @@ def solution(begin, target, words):
             begin = word
         else:
             words.append(word)
-        
+
     return 0
-        
+
 
 begin = "hit"
 target = "cog"

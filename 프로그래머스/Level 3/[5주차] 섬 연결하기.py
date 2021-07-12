@@ -4,6 +4,7 @@ def find_parent(parent, x):
         parent[x] = find_parent(parent, parent[x])
     return parent[x]
 
+
 def union_parent(parent, a, b):
     a = find_parent(parent, a)
     b = find_parent(parent, b)
@@ -13,12 +14,13 @@ def union_parent(parent, a, b):
     else:
         parent[a] = b
 
+
 def solution(n, costs):
     answer = 0
 
-    parent = [i for i in range(n)] # [0, 1, 2, 3]
+    parent = [i for i in range(n)]  # [0, 1, 2, 3]
     costs.sort(key=lambda x: x[2])
-    
+
     for cost in costs:
         a, b, c = cost
 
@@ -28,6 +30,7 @@ def solution(n, costs):
 
     return answer
 
+
 if __name__ == "__main__":
-    n, costs = 4, [[0,1,1],[0,2,2],[1,2,5],[1,3,1],[2,3,8]]
+    n, costs = 4, [[0, 1, 1], [0, 2, 2], [1, 2, 5], [1, 3, 1], [2, 3, 8]]
     print(solution(n, costs))

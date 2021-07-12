@@ -29,7 +29,7 @@
 #             self.tail = newNode
 #             self.cursor = newNode
 #             return
-        
+
 #         # cursor 중심
 #         if self.cursor == None:
 #             self.head.prev = newNode
@@ -53,14 +53,14 @@
 #             self.cursor.next = newNode
 
 #             self.cursor = newNode
-#             return  
-        
+#             return
+
 #     def delete(self):
 #         # cursor 중심으로
 #         # dx
 #         if self.cursor == None:
 #             return
-        
+
 #         elif self.head == self.tail:
 #             self.tail = None
 #             self.head = None
@@ -73,7 +73,7 @@
 #             self.cursor.prev = None
 #             self.cursor = self.tail
 #             return
-        
+
 #         elif self.head == self.cursor:
 #             self.cursor.next.prev = None
 #             self.head = self.cursor.next
@@ -83,7 +83,7 @@
 
 #         else:
 #             temp = self.cursor.prev
-#             self.cursor.prev.next = self.cursor.next 
+#             self.cursor.prev.next = self.cursor.next
 #             self.cursor.next.prev = self.cursor.prev
 #             self.cursor.next = None
 #             self.cursor.prev = None
@@ -124,20 +124,26 @@
 # print(deque)
 
 from sys import stdin
- 
+
 stk1 = list(stdin.readline().strip())
 stk2 = []
 n = int(input())
 for line in stdin:
     if line[0] == 'L':
-        if stk1: stk2.append(stk1.pop())
-        else: continue
+        if stk1:
+            stk2.append(stk1.pop())
+        else:
+            continue
     elif line[0] == 'D':
-        if stk2: stk1.append(stk2.pop())
-        else: continue
+        if stk2:
+            stk1.append(stk2.pop())
+        else:
+            continue
     elif line[0] == 'B':
-        if stk1: stk1.pop()
-        else: continue
+        if stk1:
+            stk1.pop()
+        else:
+            continue
     elif line[0] == 'P':
         stk1.append(line[2])
 

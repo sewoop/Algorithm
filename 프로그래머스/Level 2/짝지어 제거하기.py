@@ -8,6 +8,7 @@ def solution(s):
             stack.pop()
     return 0 if stack else 1
 
+
 s = "baabaa"
 s = "cdcd"
 s = "c"

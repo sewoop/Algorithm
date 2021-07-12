@@ -1,23 +1,23 @@
 def solution(progresses: list, speeds: list) -> list:
     answer = []
-    
+
     works = []
     stack_item = maximum = total = 0
 
     for progress, speed in zip(progresses, speeds):
-        work_day = (100 - progress) // speed 
+        work_day = (100 - progress) // speed
         if (100 - progress) % speed == 0:
             works.append(work_day)
         else:
             works.append(work_day + 1)
-    
+
     while total != len(progresses):
         # print(f'{works} {maximum} {stack_item} {answer}')
         if stack_item == 0:
             maximum = works.pop(0)
             stack_item += 1
             continue
-        
+
         if works and works[0] <= maximum:
             works.pop(0)
             stack_item += 1
@@ -49,7 +49,8 @@ def solution(progresses: list, speeds: list) -> list:
 # progresses = [98,95]
 # speeds = [3,1]
 
-# progresses = [99, 1, 99, 1] 
-# speeds = [1, 1, 1, 1] 
+# progresses = [99, 1, 99, 1]
+# speeds = [1, 1, 1, 1]
+
 
 print(solution(progresses, speeds))

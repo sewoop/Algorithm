@@ -4,14 +4,16 @@ def starPointer(star):
 
     for i in range(3 * len(star)):
         if i // len(star) == 1:
-            res.append(star[i % len(star)] + " " * len(star) + star[i % len(star)])
+            res.append(star[i % len(star)] + " " *
+                       len(star) + star[i % len(star)])
         else:
             res.append(star[i % len(star)] * 3)
 
     return res
 
+
 n = int(input())
-star = ["***","* *","***"]
+star = ["***", "* *", "***"]
 k = 0
 
 while n != 3:

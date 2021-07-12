@@ -15,14 +15,16 @@ def solution(n):
     return dp[n]
 '''
 
+
 def solution(n):
     answer = ""
-    
+
     char = ["4", "1", "2"]
     while n != 0:
         answer = char[n % 3] + answer
         n = (n - 1) // 3
     return answer
+
 
 for i in range(1, 20):
     print(solution(i))

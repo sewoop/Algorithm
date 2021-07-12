@@ -14,7 +14,7 @@ answer = 0
 
 #     return sum(part)
 
-for i in range(N // 2, N + 1): # N // 2 + N // 4 부터 시작할 시 8을 넣으면 4 + 1이 되어 4+4 = 8의 경우를 못 발견함
+for i in range(N // 2, N + 1):  # N // 2 + N // 4 부터 시작할 시 8을 넣으면 4 + 1이 되어 4+4 = 8의 경우를 못 발견함
     temp = sum(map(int, str(i)))
 
     if temp + i == N:

@@ -8,7 +8,7 @@ count = 0
 
 for extract in extracts:
     while queue:
-        if queue[0] == extract: 
+        if queue[0] == extract:
             queue.popleft()
             break
         else:

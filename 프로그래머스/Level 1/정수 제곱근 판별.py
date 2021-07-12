@@ -1,8 +1,9 @@
 import math
 
+
 def solution(n):
     if math.sqrt(n).is_integer():
-        answer = pow(int(math.sqrt(n)+1),2)
+        answer = pow(int(math.sqrt(n)+1), 2)
     else:
         answer = -1
 

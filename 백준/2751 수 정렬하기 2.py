@@ -1,10 +1,10 @@
 # 오름차순 정렬
 # 병합 정렬
 def mergeSort(data):
-    if len(data) <= 1: # 원소가 하나, 없으면 반환
+    if len(data) <= 1:  # 원소가 하나, 없으면 반환
         return data
 
-    mid = len(data) // 2 # 중간 값 mid
+    mid = len(data) // 2  # 중간 값 mid
     # mid를 중점으로 자름
     left = mergeSort(data[:mid])
     right = mergeSort(data[mid:])
@@ -33,6 +33,7 @@ def mergeSort(data):
 
     return data
 
+
 if __name__ == "__main__":
     data = [5, 4, 3, 2, 1]
     print(mergeSort(data))
@@ -41,6 +42,6 @@ if __name__ == "__main__":
     # data = []
     # for _ in range(n):
     #     data.append(int(input()))
-    
+
     # for i in mergeSort(data):
     #     print(i)

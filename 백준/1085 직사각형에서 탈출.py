@@ -8,4 +8,3 @@ x, y, w, h = map(int, input().split())
 
 data = [x, h - y, w - x, y]
 print(min(data))
-

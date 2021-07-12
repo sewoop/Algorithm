@@ -1,6 +1,7 @@
 from collections import defaultdict, deque
 import sys
 
+
 def dfs(graph, root):
     visit = []
     stack = [root]
@@ -14,6 +15,7 @@ def dfs(graph, root):
 
     return visit
 
+
 def bfs(graph, root):
     visit = []
     queue = deque([root])
@@ -26,6 +28,7 @@ def bfs(graph, root):
             queue.extend(list(reversed(graph[node])))
 
     return visit
+
 
 n, m, root = map(int, sys.stdin.readline().split())
 

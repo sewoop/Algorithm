@@ -1,6 +1,6 @@
 def solution(n, computers):
     answer = 0
-    
+
     graph = {}
     for i in range(n):
         for j in range(n):
@@ -22,12 +22,13 @@ def solution(n, computers):
                     visit.append(node)
                     union_find[node] = i
                     stack.extend(graph[node])
-            
+
             answer += 1
 
     return answer
 
+
 n = 3
-computers = [[1, 1, 0], [1, 1, 0], [0, 0, 1]]	
+computers = [[1, 1, 0], [1, 1, 0], [0, 0, 1]]
 # computers = [[1, 1, 0], [1, 1, 1], [0, 1, 1]]
 print(solution(n, computers))

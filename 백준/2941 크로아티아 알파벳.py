@@ -1,6 +1,6 @@
 # 2941.py
 
-cro_str = ['c=','c-','dz=','d-','lj','nj','s=','z=']
+cro_str = ['c=', 'c-', 'dz=', 'd-', 'lj', 'nj', 's=', 'z=']
 
 str_ = input()
 

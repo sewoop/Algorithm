@@ -9,6 +9,7 @@ def solution(s):
             return False
     return not(stack)
 
+
 s = "()()"
 s = ")()("
 print(solution(s))

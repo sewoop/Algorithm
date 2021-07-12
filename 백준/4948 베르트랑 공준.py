@@ -1,6 +1,7 @@
 # 1929.py
 import math
 
+
 def isPrime(inputs):
     counts = []
     for inp in inputs:
@@ -32,7 +33,7 @@ inputs = []
 
 n = int(input())
 inputs.append(n)
-while n != 0 :
+while n != 0:
     n = int(input())
     if n != 0:
         inputs.append(n)

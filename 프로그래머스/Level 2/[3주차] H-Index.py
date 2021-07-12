@@ -1,6 +1,6 @@
 def solution(citations):
     citations.sort(reverse=True)
-    
+
     answer = 0
     for n, h in zip(citations, range(1, len(citations) + 1)):
         # print(n, h)
@@ -15,6 +15,7 @@ def solution(citations):
                 answer = h
                 break
     return answer
+
 
 # H-Index
 '''

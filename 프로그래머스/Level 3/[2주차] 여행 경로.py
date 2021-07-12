@@ -1,5 +1,6 @@
 from collections import defaultdict
 
+
 def solution(tickets):
     def init_graph():
         routes = defaultdict(list)
@@ -14,7 +15,7 @@ def solution(tickets):
     # DFS
     def nextRoute():
         stack = ['ICN']
-        path = [] # 가려고하는 경로를 저장하는 변수
+        path = []  # 가려고하는 경로를 저장하는 변수
 
         while stack:
             top = stack[-1]
@@ -28,8 +29,9 @@ def solution(tickets):
 
     routes = init_graph()
     answer = nextRoute()
-    
+
     return answer
+
 
 # tickets = [["ICN", "JFK"], ["HND", "IAD"], ["JFK", "HND"]]
 # tickets = [["ICN", "SFO"], ["ICN", "ATL"], ["SFO", "ATL"], ["ATL", "ICN"], ["ATL","SFO"]]

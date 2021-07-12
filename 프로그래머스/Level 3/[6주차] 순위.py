@@ -1,6 +1,8 @@
 from collections import Counter
 
 # Floyd-warshall
+
+
 def solution(n, results):
     answer = 0
     matches = [[0] * n for _ in range(n)]
@@ -12,10 +14,10 @@ def solution(n, results):
     for k in range(n):
         for i in range(n):
             for j in range(n):
-                if matches[i][j] == 0: # 승패 결과가 안 정해진 것들을 정함
-                    if matches[i][k] == 1 and matches[k][j] == 1: # i > k, k > j 이면 i > j 임
+                if matches[i][j] == 0:  # 승패 결과가 안 정해진 것들을 정함
+                    if matches[i][k] == 1 and matches[k][j] == 1:  # i > k, k > j 이면 i > j 임
                         matches[i][j] = 1
-                    if matches[i][k] == -1 and matches[k][j] == -1: # i < k, k < j 이면 i < j 임
+                    if matches[i][k] == -1 and matches[k][j] == -1:  # i < k, k < j 이면 i < j 임
                         matches[i][j] = -1
 
     for match in matches:
@@ -23,6 +25,7 @@ def solution(n, results):
             answer += 1
 
     return answer
+
 
 # n, results = 5, [[4, 3], [4, 2], [3, 2], [1, 2], [2, 5]]
 # n, results = 8, [[1, 2], [2, 3], [3, 4], [5, 6], [6, 7], [7, 8]]

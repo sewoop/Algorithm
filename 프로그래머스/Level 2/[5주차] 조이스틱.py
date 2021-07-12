@@ -62,6 +62,7 @@ def solution(name):
     return count
 '''
 
+
 def solution(name):
     alphabet = [min(ord(i) - ord('A'), ord('Z') - ord(i) + 1) for i in name]
 
@@ -91,7 +92,8 @@ def solution(name):
         else:
             count += right_index
             index += right_index
-    return count            
+    return count
+
 
 name = "JEAAAEN"
 # name = "JEROEN"

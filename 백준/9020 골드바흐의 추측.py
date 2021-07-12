@@ -17,6 +17,7 @@ def Prime(end):
 
     return prime_list
 
+
 def GoldbaPrime(data, num):
     b = num // 2
     for j in range(b, 1, -1):
@@ -24,10 +25,10 @@ def GoldbaPrime(data, num):
             print(j, num - j)
             break
 
+
 T = int(input())
 
-data = Prime(10001) # 큰 데이터는 여러번 생성하지 않도록 따로 빼놓을 것
+data = Prime(10001)  # 큰 데이터는 여러번 생성하지 않도록 따로 빼놓을 것
 for _ in range(T):
     num = int(input())
     GoldbaPrime(data, num)
-

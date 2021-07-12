@@ -30,4 +30,5 @@ while N != 1:
     if N % i == 0:
         N = N // i
         print(i)
-    else : i += 1 
+    else:
+        i += 1

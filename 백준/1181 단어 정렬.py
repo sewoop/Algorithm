@@ -2,11 +2,13 @@
 
 import sys
 
+
 def wordSort(data):
     data = list(set(data))
     data.sort(key=lambda x: (x[1], x[0]))
-    data = [i.replace('\n','') for i, v in data]
+    data = [i.replace('\n', '') for i, v in data]
     return data
+
 
 n = int(input())
 data = []

@@ -32,18 +32,20 @@ for number in sorted(set(result)):
 import sys
 input = sys.stdin.readline
 
-n,m = map(int, input().split())
+n, m = map(int, input().split())
 nums = sorted(set(map(int, input().split())))
 ans = []
+
 
 def backtrack(index):
     if index == m:
         print(*ans)
         return
 
-    for i,num in enumerate(nums):
+    for i, num in enumerate(nums):
         ans.append(num)
         backtrack(index+1)
         ans.pop()
+
 
 backtrack(0)

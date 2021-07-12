@@ -1,7 +1,7 @@
 # 계수 정렬
 def countingSort(n):
     count = [0] * 10001
-    
+
     for _ in range(n):
         count[int(sys.stdin.readline())] += 1
 
@@ -10,6 +10,7 @@ def countingSort(n):
             for _ in range(count[i]):
                 print(i)
 
+
 if __name__ == "__main__":
 
     import sys
@@ -17,5 +18,3 @@ if __name__ == "__main__":
     n = int(sys.stdin.readline())
 
     countingSort(n)
-
-    

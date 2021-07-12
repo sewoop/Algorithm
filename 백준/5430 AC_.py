@@ -7,7 +7,7 @@ for _ in range(t):
     funcs = input().strip().replace('RR', '')
     n = int(input())
     arr = input().strip()
-    
+
     if funcs.count('D') > n:
         print('error')
         continue

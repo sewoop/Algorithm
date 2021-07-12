@@ -4,6 +4,7 @@ def locationSort(data):
     data.sort(key=lambda x: (x[1], x[0]))
     return data
 
+
 n = int(input())
 data = []
 for _ in range(n):

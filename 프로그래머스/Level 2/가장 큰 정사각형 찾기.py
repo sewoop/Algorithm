@@ -69,16 +69,19 @@ def solution2(board):
 '''
 
 # 3.성공 (DP)
+
+
 def solution(board):
-	dp = [[0 for _ in range(len(board[0]))] for _ in range(len(board))]
-	maximum = 0
-	for i in range(len(board)):
-		for j in range(len(board[0])):
-			if board[i][j] == 0: continue
-			dp[i][j] = min(dp[i - 1][j], dp[i - 1][j - 1], dp[i][j - 1]) + 1
-			if dp[i][j] > maximum:
-				maximum = dp[i][j]
-	return maximum ** 2
+    dp = [[0 for _ in range(len(board[0]))] for _ in range(len(board))]
+    maximum = 0
+    for i in range(len(board)):
+        for j in range(len(board[0])):
+            if board[i][j] == 0:
+                continue
+            dp[i][j] = min(dp[i - 1][j], dp[i - 1][j - 1], dp[i][j - 1]) + 1
+            if dp[i][j] > maximum:
+                maximum = dp[i][j]
+    return maximum ** 2
 
 
 # board = [[0,1,1,1],[1,1,1,1],[1,1,1,1],[0,0,1,0]]

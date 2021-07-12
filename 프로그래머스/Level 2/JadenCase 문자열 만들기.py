@@ -14,12 +14,17 @@ def solution(s):
     return string
 
 # sol2
+
+
 def solution(s):
-    return s.title() # 개편되어 사용 불가
+    return s.title()  # 개편되어 사용 불가
 
 # sol3
+
+
 def solution(s):
     return ' '.join([word.capitalize() for word in s.split(" ")])
+
 
 s = "3people unFollowed me    for the last week"
 print(solution(s))

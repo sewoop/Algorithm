@@ -1,4 +1,6 @@
 import heapq
+
+
 def solution(jobs):
     answer = now = i = 0
     start = -1
@@ -8,7 +10,7 @@ def solution(jobs):
         for job in jobs:
             if job[0] in range(start + 1, now + 1):
                 heapq.heappush(heap, (job[1], job[0]))
-            
+
         if heap:
             curr = heapq.heappop(heap)
             start = now
@@ -19,6 +21,7 @@ def solution(jobs):
             now += 1
 
     return answer // len(jobs)
+
 
 jobs = [[0, 3], [1, 9], [2, 6]]
 # jobs = [[0,4], [0,3], [0,2], [0,1]]

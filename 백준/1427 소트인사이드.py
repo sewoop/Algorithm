@@ -7,6 +7,8 @@ def sortInside(data):
     return ''.join(data)
 
 # 68ms
+
+
 def mergeSort(data):
     if len(data) <= 1:
         return data
@@ -39,6 +41,7 @@ def mergeSort(data):
             k += 1
 
     return data
+
 
 def sortInsideHandmadeSort(data):
     data = [int(i) for i in list(data)]

@@ -1,6 +1,6 @@
+import math
 import sys
 input = sys.stdin.readline
-import math
 
 n = int(input())
 numbers = list(map(int, input().split()))
@@ -8,6 +8,7 @@ operators = list(map(int, input().split()))
 
 result = []
 total = 0
+
 
 def backtrack(index):
     global total, result
@@ -21,7 +22,7 @@ def backtrack(index):
         backtrack(index + 1)
         return
 
-    for i in range(4): # 0, 1, 2, 3
+    for i in range(4):  # 0, 1, 2, 3
         if operators[i] != 0:
             operators[i] -= 1
             temp = total
@@ -39,6 +40,7 @@ def backtrack(index):
                 backtrack(index + 1)
             total = temp
             operators[i] += 1
+
 
 backtrack(0)
 

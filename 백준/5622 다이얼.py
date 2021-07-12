@@ -1,6 +1,6 @@
 # 5622.py
 
-dial = ['ABC','DEF','GHI','JKL','MNO','PQRS','TUV','WXYZ']
+dial = ['ABC', 'DEF', 'GHI', 'JKL', 'MNO', 'PQRS', 'TUV', 'WXYZ']
 S = input()
 
 num = [idx for i in S for idx, temp in enumerate(dial) if i in temp]

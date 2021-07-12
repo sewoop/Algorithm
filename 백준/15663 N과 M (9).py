@@ -1,4 +1,4 @@
-## itertools
+# itertools
 # import sys
 # from itertools import permutations
 # input = sys.stdin.readline
@@ -18,7 +18,7 @@
 #         print(num, end=' ')
 #     print()
 
-## direct
+# direct
 import sys
 input = sys.stdin.readline
 
@@ -30,17 +30,19 @@ used = [0] * (n + 1)
 
 result = []
 
+
 def backtrack(index):
-    if index == m:    
+    if index == m:
         result.append(tuple(data[:m]))
         return
-    
+
     for i in range(1, n + 1):
         if not used[i]:
             data[index] = numbers[i - 1]
             used[i] = 1
             backtrack(index + 1)
             used[i] = 0
+
 
 backtrack(0)
 

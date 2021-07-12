@@ -12,9 +12,11 @@ def solution(s):
     string = list(s)
     answer = 0
     for _ in range(len(string)):
-        if isCorrect(string): answer += 1
+        if isCorrect(string):
+            answer += 1
         string = string[1: len(string)] + [string[0]]
     return answer
+
 
 s = "[](){}"
 # s = "}]()[{"

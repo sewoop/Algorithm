@@ -19,9 +19,10 @@ def solution(priorities, location):
     for i, v in enumerate(lst):
         if v[0] == location:
             answer = i + 1
-            break      
+            break
 
     return answer
+
 
 print(solution([2, 1, 3, 2], 2))
 print(solution([1, 1, 9, 1, 1, 1], 0))

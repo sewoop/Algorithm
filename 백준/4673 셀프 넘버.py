@@ -2,13 +2,14 @@
 
 def d(n):
     sum_ = n
-    while n>0:
-        sum_ += n%10
+    while n > 0:
+        sum_ += n % 10
         n = n//10
     return sum_
 
+
 lt = []
-for i in range(1,10001):
+for i in range(1, 10001):
     k = d(i)
     lt.append(k)
 

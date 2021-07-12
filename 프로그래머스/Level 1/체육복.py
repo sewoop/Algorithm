@@ -40,7 +40,7 @@ if __name__ == "__main__":
     # reserve = [1]
 
     n = 8
-    lost = [5,6]
-    reserve = [4,5]
+    lost = [5, 6]
+    reserve = [4, 5]
 
-    print(solution(n,lost,reserve))
+    print(solution(n, lost, reserve))

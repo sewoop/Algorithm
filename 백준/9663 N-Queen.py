@@ -31,6 +31,7 @@ n = int(input())
 board = [[0 for _ in range(n)] for _ in range(n)]
 count = 0
 
+
 def nQueen(x, y):
     # 같은 열에 퀸이 있는 지를 확인
     for i in range(x):
@@ -51,18 +52,19 @@ def nQueen(x, y):
     rightCol = y
     while rightRow >= 0 and rightCol < n:
         if board[rightRow][rightCol] == 1:
-            return 0 
+            return 0
         rightRow -= 1
         rightCol += 1
 
     return 1
+
 
 def nQueenDFS(x):
     if x == n:
         global count
         count += 1
         return
-    
+
     for i in range(n):
         # 끝까지 도달하면
         if nQueen(x, i) == 1:
@@ -70,8 +72,6 @@ def nQueenDFS(x):
             nQueenDFS(x + 1)
             board[x][i] = 0
 
-nQueenDFS(0) # 0줄부터 시작
+
+nQueenDFS(0)  # 0줄부터 시작
 print(count)
-
-
-

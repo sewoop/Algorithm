@@ -19,6 +19,7 @@
 import sys
 # 10814 나이순 정렬
 
+
 def ageSort(data):
     data.sort(key=lambda x: (x[0], x[2]))
     return data

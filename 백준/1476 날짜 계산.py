@@ -20,7 +20,7 @@ while init != [E, S, M]:
 
         if init[0] == 16:
             init[0] = 1
-        
+
         if init[1] == 29:
             init[1] = 1
 
@@ -28,6 +28,6 @@ while init != [E, S, M]:
             init[2] = 1
 print(N)
 
-## 중국인의 나머지 정리
-E,S,M=map(int,input().split())
-print((6916*E+4845*S+4200*M-1)%7980+1)
+# 중국인의 나머지 정리
+E, S, M = map(int, input().split())
+print((6916*E+4845*S+4200*M-1) % 7980+1)

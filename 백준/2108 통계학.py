@@ -3,15 +3,21 @@ import sys
 import collections
 
 # 산술 평균
+
+
 def mean(data):
     return round(sum(data) / len(data))
 
 # 중앙 값
+
+
 def median(data):
     data.sort()
     return data[len(data) // 2]
-    
+
 # 최빈 값
+
+
 def many(data):
     dic = collections.Counter(data)
     dic_common = dic.most_common()
@@ -27,6 +33,8 @@ def many(data):
     return many_value
 
 # 범위
+
+
 def scope(data):
     return max(data) - min(data)
 

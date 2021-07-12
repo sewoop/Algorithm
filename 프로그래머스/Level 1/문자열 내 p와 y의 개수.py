@@ -3,9 +3,9 @@ def solution(s):
     s = s.upper()
     p = s.count('P')
     y = s.count('Y')
-    
-    if p == y :
+
+    if p == y:
         answer = True
-    else :
+    else:
         answer = False
     return answer

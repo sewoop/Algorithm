@@ -1,6 +1,7 @@
 # 1929.py
 import math
 
+
 def isPrime(start, end):
     primeList = [True for _ in range(end + 1)]
 
@@ -16,6 +17,7 @@ def isPrime(start, end):
     for i in range(start, end + 1):
         if primeList[i] == True:
             print(i)
+
 
 m, n = map(int, input().split())
 

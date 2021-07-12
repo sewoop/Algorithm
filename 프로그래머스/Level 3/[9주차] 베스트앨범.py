@@ -1,6 +1,7 @@
 from collections import defaultdict
 from functools import reduce
 
+
 def solution_0(genres, plays):
     answer = []
     album = defaultdict(list)
@@ -22,6 +23,7 @@ def solution_0(genres, plays):
                 answer.append(j[1])
 
     return answer
+
 
 def solution(genres, plays):
     answer = []

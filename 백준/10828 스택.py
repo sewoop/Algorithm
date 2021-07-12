@@ -2,11 +2,12 @@ import sys
 
 n = int(sys.stdin.readline())
 
+
 class Stack:
     def __init__(self):
         self.container = []
         self.size = 0
-    
+
     def push(self, data):
         self.container.append(data)
         self.size += 1
@@ -16,7 +17,7 @@ class Stack:
             res = self.container.pop()
             self.size -= 1
         except:
-            res = -1    
+            res = -1
         print(res)
         return res
 
@@ -29,7 +30,7 @@ class Stack:
             print(-1)
         else:
             print(self.container[-1])
-    
+
     def isEmpty(self):
         if self.size == 0:
             print(1)
@@ -41,9 +42,10 @@ class Stack:
     def stackPrint(self):
         print(self.container)
 
+
 stack = Stack()
 for _ in range(n):
-    control = sys.stdin.readline().replace('\n','')
+    control = sys.stdin.readline().replace('\n', '')
     # print(control)
 
     if control == 'top':

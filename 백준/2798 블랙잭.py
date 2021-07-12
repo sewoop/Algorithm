@@ -8,7 +8,7 @@
 N, M = map(int, input().split())
 
 # 카드의 종류
-card = list(map(int, input().split())) # card = [5, 6, 7, 8, 9]
+card = list(map(int, input().split()))  # card = [5, 6, 7, 8, 9]
 
 # 구현
 total = 0
@@ -19,6 +19,6 @@ for i in range(N - 2):
 
             if temp >= total and temp <= M:
                 total = temp
-            
-# 출력 
+
+# 출력
 print(total)

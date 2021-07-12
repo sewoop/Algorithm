@@ -1,11 +1,14 @@
 from itertools import permutations
 
 # 내 풀이
+
+
 def make_numbers(numbers):
     result = set()
     for i in range(len(numbers)):
         result |= set(map(int, map("".join, permutations(numbers, i + 1))))
     return result
+
 
 def solution(numbers):
     answer = 0
@@ -28,7 +31,9 @@ def solution(numbers):
 
     return answer
 
-## 다른 사람 풀이
+# 다른 사람 풀이
+
+
 def solution_short(n):
     a = set()
     for i in range(len(n)):
@@ -37,6 +42,7 @@ def solution_short(n):
     for i in range(2, int(max(a) ** 0.5) + 1):
         a -= set(range(i * 2, max(a) + 1, i))
     return len(a)
+
 
 numbers = "17"
 # numbers = "011"

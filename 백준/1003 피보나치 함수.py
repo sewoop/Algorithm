@@ -3,6 +3,7 @@ t = int(input())
 memo = [False] * 10001
 count = [False] * 10001
 
+
 def fibonacci(n):
     if memo[n]:
         return memo[n]
@@ -17,10 +18,12 @@ def fibonacci(n):
         return 1
 
     fibo = fibonacci(n - 1) + fibonacci(n - 2)
-    count[n] = [count[n - 1][0] + count[n - 2][0], count[n - 1][1] + count[n - 2][1]]
+    count[n] = [count[n - 1][0] + count[n - 2]
+                [0], count[n - 1][1] + count[n - 2][1]]
     memo[n] = fibo
 
     return fibo
+
 
 for _ in range(t):
     n = int(input())

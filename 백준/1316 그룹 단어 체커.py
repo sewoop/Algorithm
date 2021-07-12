@@ -1,9 +1,9 @@
 # 1316.py
 
-re=0
+re = 0
 for i in range(int(input())):
-    a=input()
-    re+=list(a)==sorted(a, key=a.find)
+    a = input()
+    re += list(a) == sorted(a, key=a.find)
 print(re)
 
 

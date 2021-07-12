@@ -14,8 +14,12 @@
 #     print(str(p_cnt-(n-p_a))+'/'+str(1+(0 if n==p_a else n-p_a)))
 # else :
 #     print(str(1+(0 if n==p_a else n-p_a))+'/'+str(p_cnt-(n-p_a)))
-    
+
 # (2)
-n,a,b=int(input()),1,1
-while n>=a:a+=b;b+=1
-k=[a-b+1,b-1]; print(f'{1 if n==k[0] else n-k[0]+1}/{k[1]-n+k[0]}') if b%2 else print(f'{k[1]-n+k[0]}/{1 if n==k[0] else n-k[0]+1}')
+n, a, b = int(input()), 1, 1
+while n >= a:
+    a += b
+    b += 1
+k = [a-b+1, b-1]
+print(f'{1 if n==k[0] else n-k[0]+1}/{k[1]-n+k[0]}') if b % 2 else print(
+    f'{k[1]-n+k[0]}/{1 if n==k[0] else n-k[0]+1}')
