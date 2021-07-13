@@ -1,3 +1,4 @@
+# 카카오 인턴쉽 2021 - 3번 문제
 class Node:
     def __init__(self, data):
         self.data = data
@@ -13,6 +14,7 @@ class Niniz:
         self.__head = None
         self.__tail = None
 
+    # 기존 상태와 다른 것을 찾아 결과값을 반환
     def res(self):
         curr = self.__head
         while curr:
@@ -46,23 +48,28 @@ class Niniz:
                 self.__cursor = self.__cursor.next
 
     def cut(self):
+        # Restore을 위하여 stack에 저장
         self.__stack.append(self.__cursor)
 
+        # Case 1. 현재 커서 앞에 노드가 있지만 뒤에는 없는 경우 (= 맨 뒤의 경우)
         if self.__cursor.prev and not self.__cursor.next:
             self.__cursor.prev.next = None
             self.__tail = self.__cursor.prev
             self.__cursor = self.__cursor.prev
 
+        # Case 2. 현재 커서 앞에 노드가 없지만 뒤에는 있는 경우 (= 맨 앞의 경우)
         elif not self.__cursor.prev and self.__cursor.next:
             self.__cursor.next.prev = None
             self.__head = self.__cursor.next
             self.__cursor = self.__cursor.next
 
+        # Case 3. 둘다 있는 경우 (= 노드 사이의 경우)
         elif self.__cursor.prev and self.__cursor.next:
             self.__cursor.prev.next = self.__cursor.next
             self.__cursor.next.prev = self.__cursor.prev
             self.__cursor = self.__cursor.next
 
+        # Case 4. 둘다 없는 경우 (= 현재 1개 밖에 남아있지 않은 상태)
         else:
             self.__head = None
             self.__tail = None
@@ -71,10 +78,14 @@ class Niniz:
     def restore(self):
         node = self.__stack.pop()
 
+        # 각각 if문을 해주어 앞 노드가 없으면 뒷 노드만, 뒷 노드가 없으면 앞 노드만, 둘다 있으면 둘다 연결
+        # 꺼냈던 노드가 삭제 전에 앞에 노드가 있었던 경우
         if node.prev:
             if node.prev == self.__tail:
                 self.__tail = node
             node.prev.next = node
+
+        # 꺼냈던 노드가 삭제 전에 뒤에 노드가 있었던 경우
         if node.next:
             if node.next == self.__head:
                 self.__head = node
@@ -84,6 +95,7 @@ class Niniz:
 def solution(n, k, cmd):
     niniz = Niniz(n)
 
+    # 연결 리스트 데이터 생성
     for i in range(n):
         niniz.add(i, k)
 
