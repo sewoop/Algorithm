@@ -56,6 +56,7 @@ def solution(n, start, end, roads, traps):
     return distance[end]
 '''
 
+'''
 # 인접 리스트로 해결해보기 (43.6/100)
 from heapq import heappush, heappop
 from collections import defaultdict
@@ -100,8 +101,108 @@ def solution(n, start, end, roads, traps):
             for i in path[now]:
                 cost = dist + i[0]
                 heappush(heap, (cost, i[1]))
+'''
+
+'''
+## 56.4 / 100.0
+from heapq import heappop, heappush
+from collections import defaultdict
+
+INF = int(1e9)
+
+def solution(n, start, end, roads, traps):
+    paths = defaultdict(list)
+    distance = [INF] * (n + 1)
+    trap = defaultdict(bool)
+
+    # 경로 초기화
+    for road in roads:
+        a, b, c = road
+        paths[a].append([c, b, False])  # 순반향
+        paths[b].append([c, a, True])  # 역방향
+
+    # 다익스트라
+    heap = []
+    heappush(heap, (0, -start))
+    distance[start] = 0
+
+    while heap:
+        dist, curr = heappop(heap)
+        curr = -curr
+
+        if curr == end: break
+        
+        # if distance[curr] < dist: continue
+
+        if curr in traps:
+            trap[curr] = not trap[curr]
+
+        for path in paths[curr]:
+            cost = dist + path[0]
+    
+            if path[2] == (trap[curr] ^ trap[path[1]]):
+                if distance[path[1]] > cost:
+                    distance[path[1]] = cost
+                heappush(heap, (cost, -path[1]))
+
+    return distance[end]
+'''
+
+## 정확성: 92.3/100 (3,5,6번: 실패)
+from heapq import heappop, heappush
+
+INF = int(1e9)
+
+def trap(n, paths, curr):
+    for i in range(1, n + 1):
+        paths[curr][i], paths[i][curr] = paths[i][curr], paths[curr][i]
+    return paths
+
+def solution(n, start, end, roads, traps):
+    paths = [[INF] * (n + 1) for _ in range(n + 1)]
+    distance = [INF] * (n + 1)
+
+    # 경로 초기화
+    for road in roads:
+        a, b, c = road
+        if paths[a][b] > c:
+            paths[a][b] = c
+    
+    # 다익스트라
+    heap = []
+    heappush(heap, (0, -start))
+    distance[start] = 0
+
+    status = False
+    while heap:
+        dist, curr = heappop(heap)
+        curr = -curr
+        
+        if curr == end: break
+
+        if distance[curr] < dist: continue
+
+        if curr in traps:
+            paths = trap(n, paths, curr)
+            status = True
+        else:
+            status = False
+
+        for j in [i for i in range(1, n + 1) if paths[curr][i] != INF]:
+            cost = dist + paths[curr][j]
+            
+            if status:
+                distance[j] = cost
+                heappush(heap, (cost, -j))
+            else:
+                if distance[j] > cost:
+                    distance[j] = cost
+                    heappush(heap, (cost, -j))
+
+    return distance[end]
 
 n, start, end, roads, traps = 3, 1, 3, [[1, 2, 2], [3, 2, 3]], [2]
-n, start, end, roads, traps = 4, 1, 4, [[1, 2, 1], [3, 2, 1], [2, 4, 1]], [2, 3]
+# n, start, end, roads, traps = 4, 1, 4, [[1, 2, 1], [3, 2, 1], [2, 4, 1]], [2, 3]
 # n, start, end, roads, traps = 4, 1, 4, [[1, 2, 2], [2, 3, 2], [1, 3, 1], [3, 4, 3]], [2, 3]
+# n, start, end, roads, traps = 2, 1, 2, [[1, 2, 30]], [2]
 print(solution(n, start, end, roads, traps))
