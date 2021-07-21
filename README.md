@@ -68,7 +68,7 @@
 |1927|[최소 힙](https://www.acmicpc.net/problem/1927)|📅|
 |9012|[괄호](https://www.acmicpc.net/problem/9012)|✔️|
 |---|---|---|
-|10799|[쇠막대기](https://www.acmicpc.net/problem/10799)|📅|
+|10799|[쇠막대기](https://www.acmicpc.net/problem/10799)|✔️|
 |2493|[탑](https://www.acmicpc.net/problem/2493)|📅|
 |1966|[프린터 큐](https://www.acmicpc.net/problem/1966)|✔️|
 |11279|[최대 힙](https://www.acmicpc.net/problem/11279)|📅|
@@ -158,7 +158,7 @@
 |2343|[기타 레슨](https://www.acmicpc.net/problem/2343)||
 |1939|[중량 제한](https://www.acmicpc.net/problem/1939)||
 |---|---|---|
-|2504|[괄호의 값](https://www.acmicpc.net/problem/2504)||
+|2504|[괄호의 값](https://www.acmicpc.net/problem/2504)|✔️|
 |1010|[다리 놓기](https://www.acmicpc.net/problem/1010)||
 |9465|[스티커](https://www.acmicpc.net/problem/9465)||
 |11725|[트리의 부모 찾기](https://www.acmicpc.net/problem/11725)||
@@ -466,7 +466,7 @@
 |2581|[🥈 소수](https://www.acmicpc.net/problem/2581)||
 |---|---|---|
 |14888|[🥈 연산자 끼워넣기](https://www.acmicpc.net/problem/14888)||
-|2504|[🥈 괄호의 값](https://www.acmicpc.net/problem/2504)||
+|2504|[🥈 괄호의 값](https://www.acmicpc.net/problem/2504)|✔️|
 |14719|[🥇 빗물](https://www.acmicpc.net/problem/14719)||
 |1062|[🥇 가르침](https://www.acmicpc.net/problem/1062)||
 |1700|[🥇 멀티탭 스케줄링](https://www.acmicpc.net/problem/1700)||
