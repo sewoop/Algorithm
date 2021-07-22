@@ -8,9 +8,3 @@ for i in range(6):
     count += n // m[i]
     n %= m[i]
 print(count)
-
-
-
-
-
-
