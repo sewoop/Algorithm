@@ -45,7 +45,7 @@
 
 - **Last modified** :  `2021.06.12`
 
-<details open>
+<details>
 <summary><b>백준 문제집 I</b></summary>
 
 |문제 번호|문제 이름|체크 (📅, ✔️)|
